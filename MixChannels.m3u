@@ -9,17 +9,17 @@ https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/dxs/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="Not For Sale", Cinemo
 https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4a9e9cc0-0532-11ef-a794-47318cc81ee3/6639220/1147110454.png" group-title="Not For Sale", PBO
+#EXTINF: -1 tvg-logo="https://pbo.com.ph/storage/images/077e29b11be80ab57e1a2ecabb7da330/c/PBO_PNG-og_image.png" group-title="Not For Sale", PBO
 https://bit.ly/44LFPvQ
-#EXTINF: -1 tvg-id="GMA.ph" tvg-logo="https://m3u-editor.com/storage/channel-logos/4c611da0-1e6a-11ef-9cab-4fb47eb7b758/6808813/1174461638.png" group-title="Not For Sale", GMA 7
+#EXTINF: -1 tvg-id="GMA.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/tl/f/f1/Gma_network_logo.png" group-title="Not For Sale", GMA 7
 https://ssh101-fl.bozztv.com/ssh101/gmaa/index.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4a9e9cc0-0532-11ef-a794-47318cc81ee3/6639220/1147110438.png" group-title="Not For Sale", GMA LifeTV
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/GMA_Life_TV.png" group-title="Not For Sale", GMA LifeTV
 http://tv14s.xyz:8080/live/36820828/31222528/101825.ts
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4a9e9cc0-0532-11ef-a794-47318cc81ee3/6639220/1147110439.png" group-title="Not For Sale", GMA NewsTV (Test)
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/GMA_News_TV_logo.png" group-title="Not For Sale", GMA NewsTV (Test)
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16683
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4a9e9cc0-0532-11ef-a794-47318cc81ee3/6639220/1147110440.png" group-title="Not For Sale", GMA PinoyTV
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/GMAPinoyTVvector05.png" group-title="Not For Sale", GMA PinoyTV
 http://tv14s.xyz:8080/live/36820828/31222528/101826.ts
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4c611da0-1e6a-11ef-9cab-4fb47eb7b758/6808813/1174461642.png" group-title="Not For Sale", Super Radyo DZBB
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/GMA_Super_Radyo_Vector_Logo_2022.svg" group-title="Not For Sale", Super Radyo DZBB
 https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4a9e9cc0-0532-11ef-a794-47318cc81ee3/6639220/1147110396.png" group-title="Not For Sale", TV5 HD
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
