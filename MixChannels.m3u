@@ -203,7 +203,7 @@ https://stream.freetv.fun/now-hbo-family-1.m3u8
 http://mohdtv.com:8880/live/voby4681/59596648/71037.ts
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f7d94420-298a-11ef-a90f-c318a00eff90/6868315/1184354426.png" group-title="Not For Sale", HBO PLUS
 http://38.41.8.1:8000/play/a05i
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4a9e9cc0-0532-11ef-a794-47318cc81ee3/6639220/1147110401.png" group-title="Not For Sale", HBO SIGNATURE(unstable)
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4a9e9cc0-0532-11ef-a794-47318cc81ee3/6639220/1147110401.png" group-title="Not For Sale", HBO SIGNATURE
 http://45.235.0.78/HBOSIGNATURE-HD/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f7d94420-298a-11ef-a90f-c318a00eff90/6868315/1184354428.png" group-title="Not For Sale", HBO Xtreme
 http://38.41.8.1:8000/play/a05j
