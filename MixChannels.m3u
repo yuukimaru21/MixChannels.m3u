@@ -207,6 +207,8 @@ http://38.41.8.1:8000/play/a05i
 http://45.235.0.78/HBOSIGNATURE-HD/index.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/f7d94420-298a-11ef-a90f-c318a00eff90/6868315/1184354428.png" group-title="Not For Sale", HBO Xtreme
 http://38.41.8.1:8000/play/a05j
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" group-title="Not For Sale", HBO Pop
+http://38.41.8.1:8000/play/a00d
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a17e72a0-1367-11ef-8d5e-8f7da7195e91/6739630/1164729571.jpeg" group-title="Not For Sale", Hell's Kitchen
 https://itv-hellskitchen-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-itvhellskitchen-rakuten/CDN/master.m3u8?ads_amagi_channel=810&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=7&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gdpr_consent=&ads_market=uk&ads_os_language=&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads_rtv_content_id=4317&ads_rtv_content_language=eng&ads_rtvid=271858&ads_streaming_id=929d3ef3-efa9-4aa3-80d4-05fb49edef01&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4a9e9cc0-0532-11ef-a794-47318cc81ee3/6639220/1147110441.png" group-title="Not For Sale", HGTV
@@ -603,8 +605,6 @@ https://stream.freetv.fun/thrill-1.m3u8
 http://181.205.77.118:4849/play/a0ei
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Not For Sale", Warner TV
 http://newlife3.wanicelife.com:8880/live/3ca06303n10/asdf2e23e/71094.ts
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" group-title="Not For Sale", HBO Pop
-http://38.41.8.1:8000/play/a00d
 #EXTINF: -1 tvg-logo="https://cdn.watch.aetnd.com/sites/2/2023/08/pawn-stars-option-18-logo.png" group-title="Not For Sale", Pawn Stars
 https://i.mjh.nz/SamsungTVPlus/US300003S3.m3u8
 #EXTINF: -1 tvg-logo="https://images.pluto.tv/channels/6654adb1f99922000854388c/colorLogoPNG.png" group-title="Not For Sale", Summer of Movies
