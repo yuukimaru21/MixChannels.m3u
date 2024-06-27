@@ -605,5 +605,5 @@ http://181.205.77.118:4849/play/a0ei
 http://newlife3.wanicelife.com:8880/live/3ca06303n10/asdf2e23e/71094.ts
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" group-title="Not For Sale", HBO Pop
 http://38.41.8.1:8000/play/a00d
-#EXTINF: -1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300003S3_20240625T011423SQUARE.png group-title="Not For Sale", Pawn Stars
+#EXTINF: -1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300003S3_20240625T011423SQUARE.png" group-title="Not For Sale", Pawn Stars
 https://i.mjh.nz/SamsungTVPlus/US300003S3.m3u8
