@@ -1,13 +1,13 @@
 #EXTM3U 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png" group-title="Not For Sale", A2Z (Unstable)
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16744
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4a9e9cc0-0532-11ef-a794-47318cc81ee3/6639220/1147110426.png" group-title="Not For Sale", Teleradyo
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/2/2e/20230720021111%21TeleRadyo_Serbisyo_logo.svg" group-title="Not For Sale", Teleradyo
 https://teleradyo-abscbn-ono.amagi.tv/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4a9e9cc0-0532-11ef-a794-47318cc81ee3/6639220/1147110425.png" group-title="Not For Sale", MYX TV Global
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/russel/images/3/33/Myx_Logo_2017.png" group-title="Not For Sale", MYX TV Global
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4a9e9cc0-0532-11ef-a794-47318cc81ee3/6639220/1147110417.png" group-title="Not For Sale", CINEMA ONE
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Cinema_One_logo.png" group-title="Not For Sale", CINEMA ONE
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4a9e9cc0-0532-11ef-a794-47318cc81ee3/6639220/1147110423.png" group-title="Not For Sale", Cinemo
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/dxs/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="Not For Sale", Cinemo
 https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4a9e9cc0-0532-11ef-a794-47318cc81ee3/6639220/1147110454.png" group-title="Not For Sale", PBO
 https://bit.ly/44LFPvQ
