@@ -45,21 +45,21 @@ http://vo01.mohdtv.com:8880/live/ALLChannels681def0087c7/81216685/50122.ts
 https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="Not For Sale", Baby Shark TV
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4c611da0-1e6a-11ef-9cab-4fb47eb7b758/6808813/1174461654.png" group-title="Not For Sale", Brat TV
+#EXTINF: -1 tvg-logo="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/ax4fdakeesgmbfimmwio.png" group-title="Not For Sale", Brat TV
 https://brat-rakuten.amagi.tv/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4a9e9cc0-0532-11ef-a794-47318cc81ee3/6639220/1147110413.png" group-title="Not For Sale", CARTOON NETWORK(New Link)
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Not For Sale", CARTOON NETWORK(New Link)
 http://84.17.40.25/CARTOON_NETWORK/index.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a17e72a0-1367-11ef-8d5e-8f7da7195e91/6739630/1163758254.jpeg" group-title="Not For Sale", Gigglemug
+#EXTINF: -1 tvg-logo="https://imgur.com/RW4R6QV.png" group-title="Not For Sale", Gigglemug
 https://janson-gigglemug-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4Pn0ADQ.png" group-title="Not For Sale", KidsFlix
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4a9e9cc0-0532-11ef-a794-47318cc81ee3/6639220/1147110446.png" group-title="Not For Sale", Moonbug
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Moonbug2ndLogo.png" group-title="Not For Sale", Moonbug
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8DAe8wr.png" group-title="Not For Sale", Nick Jr. Pluto TV
 https://dai.google.com/linear/hls/event/_Ath2237RR2QfYlKfSa9hQ/master.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4a9e9cc0-0532-11ef-a794-47318cc81ee3/6639220/1147110407.png" group-title="Not For Sale", NICKELODEON
+#EXTINF: -1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/nickelodeon-5-logo-png-transparent.png" group-title="Not For Sale", NICKELODEON
 http://143.244.60.30/NICKELODEON/index.m3u8
-#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4c611da0-1e6a-11ef-9cab-4fb47eb7b758/6808813/1174461661.png" group-title="Not For Sale", NickToons
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="Not For Sale", NickToons
 http://143.244.60.30/NICKTOONS/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0nDftk7.jpg" group-title="Not For Sale", Pokemon Kids TV
 https://ythls.armelin.one/channel/UCgbfG5HoczHIkpzxLYH-8Ww.m3u8
