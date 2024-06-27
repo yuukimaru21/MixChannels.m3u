@@ -95,8 +95,8 @@ https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
 #EXTINF: -1 tvg-id="49" tvg-logo="https://m3u-editor.com/storage/channel-logos/4a9e9cc0-0532-11ef-a794-47318cc81ee3/6639220/1147110409.png" group-title="Not For Sale", AXN
 http://38.41.8.1:8000/play/a009
-#EXTINF: -1 tvg-id="Bbcearth.Hd.ph" tvg-logo="https://m3u-editor.com/storage/channel-logos/4a9e9cc0-0532-11ef-a794-47318cc81ee3/6639220/1147110421.png" group-title="Not For Sale", BBC Earth (Kodi)
-https://epg.pw/stream/7ab314dffe41c2c850533b7b9aa28c97704b751eee651e6c7c57aac886707985.m3u8
+#EXTINF: -1 tvg-id="Bbcearth.Hd.ph" tvg-logo="https://m3u-editor.com/storage/channel-logos/4a9e9cc0-0532-11ef-a794-47318cc81ee3/6639220/1147110421.png" group-title="Not For Sale", BBC Earth
+https://d206rrc0yoxllg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-staxtq3pp4n9p/BBC_Earth_US.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/4a9e9cc0-0532-11ef-a794-47318cc81ee3/6639220/1147110432.jpeg" group-title="Not For Sale", BBC News Asia
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/a17e72a0-1367-11ef-8d5e-8f7da7195e91/6739630/1163772325.png" group-title="Not For Sale", Best TV Ever
