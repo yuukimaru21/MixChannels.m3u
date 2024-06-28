@@ -602,9 +602,9 @@ http://newlife3.wanicelife.com:8880/live/3ca06303n10/asdf2e23e/29491.ts
 #EXTINF:-1  tvg-logo="https://m3u-editor.com/storage/channel-logos/4a9e9cc0-0532-11ef-a794-47318cc81ee3/6639220/1147110458.png" group-title="Not For Sale",Thrill (Backup)
 https://stream.freetv.fun/thrill-1.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Not For Sale",Warner Channel
-http://181.205.77.118:4849/play/a0ei
+http://181.78.4.186:8000/play/a0et/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Not For Sale",Warner TV
-http://newlife3.wanicelife.com:8880/live/3ca06303n10/asdf2e23e/71094.ts
+http://45.235.0.78/WARNERCHANNEL-HD/index.m3u8
 #EXTINF:-1  tvg-logo="https://cdn.watch.aetnd.com/sites/2/2023/08/pawn-stars-option-18-logo.png" group-title="Not For Sale",Pawn Stars
 https://i.mjh.nz/SamsungTVPlus/US300003S3.m3u8
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/6654adb1f99922000854388c/colorLogoPNG.png" group-title="Not For Sale",Summer of Movies
@@ -655,8 +655,8 @@ https://r.mjh.nz/PlutoTV/60fb01a24795a6000762fe83-alt.m3u8
 https://r.mjh.nz/PlutoTV/5b68a18823ecb93393cba2f1-alt.m3u8
 #EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/65cf8b9328730900087c5324/colorLogoPNG.png" group-title="Not For Sale",Are We There Yet?
 https://r.mjh.nz/PlutoTV/65cf8b9328730900087c5324-alt.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Not For Sale",
-
+#EXTINF:-1  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000007MT_20240520T222716SQUARE.png" group-title="Not For Sale",Maverick Black Cinema
+https://i.mjh.nz/SamsungTVPlus/USAJ3000007MT.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Not For Sale",
 
 #EXTINF:-1  tvg-logo="" group-title="Not For Sale",
