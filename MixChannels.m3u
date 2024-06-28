@@ -609,5 +609,3 @@ http://newlife3.wanicelife.com:8880/live/3ca06303n10/asdf2e23e/71094.ts
 https://i.mjh.nz/SamsungTVPlus/US300003S3.m3u8
 #EXTINF: -1 tvg-logo="https://images.pluto.tv/channels/6654adb1f99922000854388c/colorLogoPNG.png" group-title="Not For Sale", Summer of Movies
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6654adb1f99922000854388c/1539795/playlist.m3u8?terminate=false&sid=SAMSUNG-TVPLUS-e4d52aee-ec2d-4aba-86be-4bf941d2f69e&deviceDNT=0&deviceLat=0&deviceLon=0&deviceModel=samsung&deviceVersion=unknown&embedPartner=samsung-tvplus&samsung_app_domain=https%3A%2F%2Fwww.samsung.com%2Fus%2Fappstore%2Fapp.do%3FappId%3DG15147002586&samsung_app_name=Samsung%20TV%20Plus&serverSideAds=true&appName=samsungtvplus&deviceId=6e583152-5e9c-4a7e-9614-1a5c01e853fe&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung&includeDeviceUA=true&us_privacy=1YNY
-#EXTINF: -1 group-title="Not For Sale", Test
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tvnmovie.mpd
