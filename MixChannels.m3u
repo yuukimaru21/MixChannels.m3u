@@ -19,6 +19,10 @@ http://21tv.net:8789/play/live.php?mac=00:1A:79:5D:78:C6&stream=253457&extension
 http://21tv.net:8789/play/live.php?mac=00:1A:79:5D:78:C6&stream=253456&extension=ts
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/TvN_Movies_Pinoy_Logo_2023.png" group-title="Not For Sale",TvN Movies Tagalog
 http://21tv.net:8789/play/live.php?mac=00:1A:79:5D:78:C6&stream=253481&extension=ts
+#EXTINF:-1  tvg-logo="https://medianet.mv/media/channel/229x0-icon.png" group-title="Not For Sale",Hits
+http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:F2:D0:BB&stream=926174&extension=ts&play_token=AtYtWMj22H
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png" group-title="Not For Sale",Hits Movies
+http://user.scalecdn.co:8080/live/BK012ee1/993c950e60/567717.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/tl/f/f1/Gma_network_logo.png" group-title="Not For Sale",GMA 7
 https://ssh101-fl.bozztv.com/ssh101/gmaa/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/GMA_Life_TV.png" group-title="Not For Sale",GMA LifeTV
