@@ -657,3 +657,5 @@ https://r.mjh.nz/PlutoTV/5b68a18823ecb93393cba2f1-alt.m3u8
 https://r.mjh.nz/PlutoTV/65cf8b9328730900087c5324-alt.m3u8
 #EXTINF:-1  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000007MT_20240520T222716SQUARE.png" group-title="Not For Sale",Maverick Black Cinema
 https://i.mjh.nz/SamsungTVPlus/USAJ3000007MT.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/MeTV_Toons.png" group-title="Not For Sale", METV Toons
+https://live.realms.pub/live/01aec3bf-b9bb-4c3f-93e8-fc76542016f4/index.m3u8
