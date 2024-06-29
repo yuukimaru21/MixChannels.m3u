@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png" group-title="Not For Sale",A2Z (Unstable)
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png" group-title="Not For Sale",A2Z
 http://jafupro.com:80/live/1234567890/1234567890/65961.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/2/2e/20230720021111%21TeleRadyo_Serbisyo_logo.svg" group-title="Not For Sale",Teleradyo
 https://teleradyo-abscbn-ono.amagi.tv/playlist.m3u8
@@ -11,6 +11,10 @@ https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://pbo.com.ph/storage/images/077e29b11be80ab57e1a2ecabb7da330/c/PBO_PNG-og_image.png" group-title="Not For Sale",PBO
 https://bit.ly/44LFPvQ
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Viva_Cinema_2021.png" group-title="Not For Sale",VIVACINEMA
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/276531.ts
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/russel/images/4/41/Tagalized_Movie_Channel_Logo_2021.png" group-title="Not For Sale",TMC
+http://21tv.net:8789/play/live.php?mac=00:1A:79:5D:78:C6&stream=253457&extension=ts
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/tl/f/f1/Gma_network_logo.png" group-title="Not For Sale",GMA 7
 https://ssh101-fl.bozztv.com/ssh101/gmaa/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/GMA_Life_TV.png" group-title="Not For Sale",GMA LifeTV
@@ -667,7 +671,3 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/mycinema/manifest.mpd
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Viva_Cinema_2021.png" group-title="Not For Sale" VIVACINEMA
-http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/276531.ts
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/russel/images/4/41/Tagalized_Movie_Channel_Logo_2021.png" group-title="Not For Sale" TMC
-http://21tv.net:8789/play/live.php?mac=00:1A:79:5D:78:C6&stream=253457&extension=ts
