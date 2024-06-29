@@ -15,6 +15,10 @@ https://bit.ly/44LFPvQ
 http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/276531.ts
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/russel/images/4/41/Tagalized_Movie_Channel_Logo_2021.png" group-title="Not For Sale",TMC
 http://21tv.net:8789/play/live.php?mac=00:1A:79:5D:78:C6&stream=253457&extension=ts
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1024px-Logo_tvN.svg.png" group-title="Not For Sale",TvN
+http://21tv.net:8789/play/live.php?mac=00:1A:79:5D:78:C6&stream=253456&extension=ts
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/TvN_Movies_Pinoy_Logo_2023.png" group-title="Not For Sale",TvN Movies Tagalog
+http://21tv.net:8789/play/live.php?mac=00:1A:79:5D:78:C6&stream=253481&extension=ts
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/tl/f/f1/Gma_network_logo.png" group-title="Not For Sale",GMA 7
 https://ssh101-fl.bozztv.com/ssh101/gmaa/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/GMA_Life_TV.png" group-title="Not For Sale",GMA LifeTV
