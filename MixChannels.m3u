@@ -663,7 +663,3 @@ https://live.realms.pub/live/01aec3bf-b9bb-4c3f-93e8-fc76542016f4/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
-#EXTINF:-1 group-title="Not For Sale"  tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png",Celestial Movies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2201060AA816B51EC67EADF112EE357B
-http://vstream.vip:2889/live/2201060AA816B51EC67EADF112EE357B/39
