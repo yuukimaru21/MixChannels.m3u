@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png" group-title="Not For Sale",A2Z (Unstable)
-http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16744
+http://jafupro.com:80/live/1234567890/1234567890/65961.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/2/2e/20230720021111%21TeleRadyo_Serbisyo_logo.svg" group-title="Not For Sale",Teleradyo
 https://teleradyo-abscbn-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/russel/images/3/33/Myx_Logo_2017.png" group-title="Not For Sale",MYX TV Global
@@ -27,8 +27,8 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OneNewsPH_logo.svg/1200px-OneNewsPH_logo.svg.png" group-title="Not For Sale",One News
 https://bit.ly/3V39Bce
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/RPTV_official_logo.png" group-title="Not For Sale",RPTV (Offline)
-http://xtv.ooo:8080/live/69543966/70998087/352610.ts
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/RPTV_official_logo.png" group-title="Not For Sale",RPTV
+http://188.93.236.146/live/play/U2xkeVZGTTJWbXN2VTFrckx6SlFUMll2Tm5WUFpGRmlkSGN6VjNwRGIza3haMFk0WTFoVU5qVlJjejA9/253529
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/OnePH_logo.svg/2560px-OnePH_logo.svg.png" group-title="Not For Sale",One PH (Offline)
 http://xtv.ooo:8080/live/69543966/70998087/352625.ts
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/OneSportsPlus_logo.svg" group-title="Not For Sale",One Sports Plus (Online)
