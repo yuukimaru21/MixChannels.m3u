@@ -27,8 +27,8 @@ http://user.scalecdn.co:8080/live/BK012ee1/993c950e60/567717.m3u8
 https://ssh101-fl.bozztv.com/ssh101/gmaa/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/GMA_Life_TV.png" group-title="Not For Sale",GMA LifeTV
 http://tv14s.xyz:8080/live/36820828/31222528/101825.ts
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/GMA_News_TV_logo.png" group-title="Not For Sale",GMA NewsTV (Test)
-http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16683
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/GMA_News_TV_logo.png" group-title="Not For Sale",GMA NewsTV
+http://194.42.205.101:8070/live/GenIptv2023/XkgMCdR7PJzShK5m/144859.ts
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/GMAPinoyTVvector05.png" group-title="Not For Sale",GMA PinoyTV
 http://tv14s.xyz:8080/live/36820828/31222528/101826.ts
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/GMA_Super_Radyo_Vector_Logo_2022.svg" group-title="Not For Sale",Super Radyo DZBB
