@@ -679,3 +679,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/mycinema/manifest.mpd
+#EXTINF:-1 group-title="Not For Sale"  tvg-logo="https://images.indihometv.com/logo_mycinema_ver1.png",MY CINEMA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=HkNcWEBYFAkUVABcAQVVBFRRBQNVXFwKBFILBgYDAAcEWAIOAVIGAVASH0ZAFRFRUwtoXlQaXgZUVgQCBkkQRhYERmZaVBQJFAIDUQZWURYeRENeXV1GCVNWAggLXAsAV1EYG0NZUhEMEgFdC1RXFh5EUk9EXRZdAw1sVVYTW1AAQw5XRlxaHxRfXTtXBA5VXAIVDRIIRh9ACEBBEV9cRgkNGBtRWUJBV0RWRglDUgcKUxUbElsLRgwVQUgRXxB3IEMYG1ZIQlZYQ1oLXUNZFkYVFRsSURdsEARARUEAU14AExYDEQAUHxRdUhxsAgxaXANUQ1lXCkBAWxEAA1UQH0cMW1daRFlBaUBaABFbQQUAXgMDEkU=
+http://51.222.44.161:25461/live/BK012ee1/993c950e60/567735.ts
