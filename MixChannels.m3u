@@ -1,4 +1,6 @@
 #EXTM3U 
+#EXTINF:-1  tvg-logo="https://qph.cf2.quoracdn.net/main-qimg-369e0055bbc4299af078b8ad365a1d6a" group-title="Not For Sale", Muse Asia Live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720156937/ei/qS6HZvuLDdyu1d8P--eJ6AE/ip/2001%3A4451%3A7d0%3A1f00%3A8098%3A2517%3Ac297%3A3c6e/id/-WmatjBEQNo.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ph/spc/NO7bAdBwH9Cw8ajdnLDBPq2MQEa0w10lL7EWa1dtQiV_I1iZdPSiWwOB1g_Mm3s/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIqKd2o_x_JU_giuvUU2dSNIN0VGxw7IwQ6yQz7uZJMDAiEA_bttgNzeQcs36PkJwa4m8jC_GZKbNNLRYr_5SRlAzZU%3D/file/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Kapamilya_Online_Live_logo.png" group-title="Not For Sale", Kapamilya Live
 https://ln.run/MikephKapamilya?.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png" group-title="Not For Sale",A2Z
