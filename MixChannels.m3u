@@ -642,7 +642,7 @@ https://jmp2.uk/SamsungTVPlus/USBC4400004KK.m3u8
 #EXTINF:-1  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300009VM_20240520T220110SQUARE.png" group-title="Not For Sale",LOL! Network
 https://jmp2.uk/SamsungTVPlus/USBC1300009VM.m3u8
 #EXTINF:-1  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504531A_20240520T215930SQUARE.png" group-title="Not For Sale",Pluto TV Pixel World
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v1/stitch/embed/hls/channel/5812b821249444e05d09cc4c/1539795/playlist.m3u8?terminate=false&sid=SAMSUNG-TVPLUS-c1be543b-a66d-40c2-8870-9f42ec2b0c1d&deviceDNT=0&deviceLat=0&deviceLon=0&deviceModel=samsung&deviceVersion=unknown&embedPartner=samsung-tvplus&samsung_app_domain=https%3A%2F%2Fwww.samsung.com%2Fus%2Fappstore%2Fapp.do%3FappId%3DG15147002586&samsung_app_name=Samsung%20TV%20Plus&serverSideAds=true&appName=samsungtvplus&deviceId=20fb11f8-34aa-45b3-8079-0c12d5663f38&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung&includeDeviceUA=true&us_privacy=1YNY
+https://jmp2.uk/SamsungTVPlus/USAJ3504531A.m3u8
 #EXTINF:-1  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD70000213_20240520T214848SQUARE.png" group-title="Not For Sale",TMZ
 https://jmp2.uk/SamsungTVPlus/USBD70000213.m3u8
 #EXTINF:-1  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US800003JM_20240528T020922SQUARE.png" group-title="Not For Sale",BBC Kids
