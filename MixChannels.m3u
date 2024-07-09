@@ -594,7 +594,7 @@ http://206.212.244.32/live//9rpAZwWZT9/zaGl252Y2w/12792.m3u8?token=GRMJWEQNEFgXU
 #EXTINF:-1  tvg-logo="" group-title="Not For Sale",AMC(Ying)
 http://61.221.215.25:8800/hls/43/index.m3u8
 #EXTINF:-1  tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020557769714_94.png" group-title="Not For Sale",5 StarMax
-https://stream.freetv.fun/5-star-max-1.ctv
+http://152.89.62.76:8880/live/3ca7123n11/ewfr543ds/64347.ts
 #EXTINF:-1  tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417171857306359_61.png" group-title="Not For Sale",now 爆谷
 https://stream.freetv.fun/now-bao-gu-1.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png" group-title="Not For Sale",Celestial Classic Movies
