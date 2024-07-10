@@ -693,3 +693,5 @@ http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57183
 http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png" group-title="Not For Sale", Boomerang HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57206
+#EXTINF:-1  tvg-logo="" group-title="Not For Sale", WOW Movies
+https://fl1001.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
