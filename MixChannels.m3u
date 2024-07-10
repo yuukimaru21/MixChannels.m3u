@@ -26,7 +26,7 @@ http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:F2:D0:BB&stream=926174&
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png" group-title="Not For Sale",Hits Movies
 http://user.scalecdn.co:8080/live/BK012ee1/993c950e60/567717.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/tl/f/f1/Gma_network_logo.png" group-title="Not For Sale",GMA 7
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720152229/ei/RRyHZvPfGqWW1d8P_MWE0AU/ip/2001%3A4451%3A7d0%3A1f00%3A8098%3A2517%3Ac297%3A3c6e/id/CG_CrUcv1DA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ph/spc/NO7bAUQUSWY0j4E0mwSUO8yVaqGmOLryJ2JfOmFyW5AGDqpavYPUlj9Qng3YTHU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJn3uJdRF4s-bEf70ruan_uVTpyt-be3pFTO4xJfMqTIAiBs--zXfzmVelWyMPEcEGp9Hzut9UhNzjNEtwW3wNAoJA%3D%3D/file/index.m3u8
+http://vstream.vip:2889/live/CB19EA4D6F80D09900837A068815F21B/135
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/GMA_Life_TV.png" group-title="Not For Sale",GMA LifeTV
 http://tv14s.xyz:8080/live/36820828/31222528/101825.ts
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/GMA_News_TV_logo.png" group-title="Not For Sale",GMA NewsTV
