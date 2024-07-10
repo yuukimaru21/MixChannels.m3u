@@ -377,10 +377,10 @@ http://51.222.44.161:25461/live/BK012ee1/993c950e60/567745.ts?token=HkNcWEBYFAkU
 https://varun-iptv.netlify.app/m3u/TLC.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtdQVVNTqsXj1yFhaIqKxtD5Y4PhWVicb_bcMHRYtGegTkdVANZiuC0BE&s=10" group-title="Not For Sale",TNT East (Geo Blocked)(Use VPN set to US)
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/TNTEast.us.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Not For Sale",Toonami Aftermath Movies
+#EXTINF:-1  tvg-logo="https://imgur.com/OvZjnKS.png" group-title="Not For Sale",Toonami Aftermath Movies
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Not For Sale",Turners Classic Movies East (Kodi)
-https://epg.pw/stream/30b916604f895a7ebb58b85f78b974f6c83a7af20dd98398720d39cd37a33ffe.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/982px-TCM_logo.svg.png" group-title="Not For Sale",Turners Classic Movies East
+http://143.244.60.30/TCM/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Not For Sale",Unsolved Mysteries (Broken) (Looping)
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/channel-hls/v2/77dc314fd75541ff/9991727/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=chrome&ads._fw_device_model=GENERIC&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=0&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=FilmriseUnsolvedMysteries&ads.csid=zeus_uk_filmriseunsolvedmysteriesuk_ssai&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=1970&ads.rakuten_env=prod&ads.rakuten_market=uk&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=318&ads.rakuten_streaming_id=885756aa-4b04-41c8-a545-3f6aec84df69&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=9991727&ads.xumo_contentId=2072&ads.xumo_contentName=FilmRiseUnsolvedMysteriesUK&ads.xumo_ifa=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.xumo_ifaType=ppid&ads.xumo_providerId=2072&ads.xumo_providerName=FilmRiseUnsolvedMysteriesUK
 #EXTINF:-1  tvg-logo="" group-title="Not For Sale",Watchmojo
@@ -389,7 +389,7 @@ https://watchmojo-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-movies4free-xiaomi/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Not For Sale",Whoa! That Was Wild!
 https://newsflare-whoathatwaswild-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="" group-title="Not For Sale",Xumo Play
+#EXTINF:-1  tvg-logo="https://seeklogo.com/images/X/xumo-2022-logo-3E90E951CB-seeklogo.com.png" group-title="Not For Sale",Xumo Play
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxxumofreemovies/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
 #EXTINF:-1  tvg-logo="" group-title="Not For Sale",Sony Pix
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
