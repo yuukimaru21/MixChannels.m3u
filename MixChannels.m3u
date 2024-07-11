@@ -57,6 +57,14 @@ http://user.scalecdn.co:8080/live/BK012ee1/993c950e60/651751.m3u8
 https://epg.pw/stream/3b6414cf619308a7d6edc3d1cc885fcbc8512eef391f4a88ef40d169ad9c77ef.m3u8
 #EXTINF:-1  tvg-logo="https://iconape.com/wp-content/files/th/284492/svg/nba-tv-seeklogo.com.svg" group-title="Not For Sale",NBA TV 480p
 http://streamsy.online:2999/coachj88/N93DPKS9pJ/136
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png" group-title="Not For Sale", Golf Channel
+http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/1200px-SEC_Network_logo.svg.png" group-title="Not For Sale", Sec Network
+http://fl2.moveonjoy.com/SEC_NETWORK/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Oxygen_TV_%282017_Logo%29.png" group-title="Not For Sale", Oxygen
+http://fl2.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:-1  tvg-logo="https://1000logos.net/wp-content/uploads/2024/04/FreeForm-Logo.png" group-title="Not For Sale", FreeForm
+http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" group-title="Not For Sale", Warner TV Cignal
 http://128.0.104.39:8070/GenIptv2023/XkgMCdR7PJzShK5m/170006
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/2560px-Animax_logo.svg.png" group-title="Not For Sale",ANIMAX
