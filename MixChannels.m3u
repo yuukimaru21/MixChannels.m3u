@@ -63,7 +63,7 @@ http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
 http://fl2.moveonjoy.com/SEC_NETWORK/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Oxygen_TV_%282017_Logo%29.png" group-title="Not For Sale", Oxygen
 http://fl2.moveonjoy.com/OXYGEN/index.m3u8
-#EXTINF:-1  tvg-logo="https://1000logos.net/wp-content/uploads/2024/04/FreeForm-Logo.png" group-title="Not For Sale", FreeForm
+#EXTINF:-1  tvg-logo="https://imgur.com/sbrXfCJ.png" group-title="Not For Sale", FreeForm
 http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" group-title="Not For Sale", Warner TV Cignal
 http://128.0.104.39:8070/GenIptv2023/XkgMCdR7PJzShK5m/170006
