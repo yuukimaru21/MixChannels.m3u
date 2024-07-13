@@ -663,7 +663,5 @@ http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57206
 #EXTINF:-1 tvg-logo=""group-title="Not For Sale",WOW Movies
 https://fl1001.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Not For Sale",Rock Action
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2341c2ecd3cf4865881bb0fa1287de8f:ad45202e64f66ef36b3f60fac93cc47f
-https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.mpd
+#EXTINF:-1 tvg-logo="" group-title="Not For Sale",Unknown Channel
+https://live.realms.pub/live/a7ea5011-cc43-4847-aa0b-b778a1c6595e/index.m3u8
