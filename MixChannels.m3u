@@ -229,6 +229,8 @@ http://125.227.210.55:8153/VideoInput/play.ts
 http://181.205.77.118:4849/play/CH68
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png"group-title="Not For Sale",HBO 2
 http://38.41.8.1:8000/play/a05h
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/HBO3_gradient.PNG" group-title="Not For Sale",HBO 3
+http://185.236.229.62:9981/play/a062
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/800px-HBO_Family.svg.png"group-title="Not For Sale",HBO FAMILY
 http://168.181.122.234:8000/play/a02r/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png"group-title="Not For Sale",HBO Hits
