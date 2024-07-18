@@ -3,7 +3,7 @@
 https://ln.run/MikephKapamilya?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png"group-title="Not For Sale",A2Z
 http://jafupro.com:80/live/1234567890/1234567890/65961.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png"group-title="Not For Sale",A2Z(Backup)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png"group-title="Boss Junier",A2Z
 http://vstream.vip:80/live/C3FEB9EF72A755ED536E22025F78682D/6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/320px-TeleRadyo_Serbisyo_logo.svg.png"group-title="Not For Sale",Teleradyo
 https://teleradyo-abscbn-ono.amagi.tv/playlist.m3u8
@@ -27,14 +27,16 @@ http://21tv.net:8789/play/live.php?mac=00:1A:79:5D:78:C6&stream=253481&extension
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:F2:D0:BB&stream=926174&extension=ts&play_token=AtYtWMj22H
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png"group-title="Not For Sale",Hits Movies
 http://user.scalecdn.co:8080/live/BK012ee1/993c950e60/567717.m3u8
-#EXTINF:-1 tvg-logo="https://cmpinoy.com.ph/storage/images/c4ca4238a0b923820dcc509a6f75849b/c/logo-og_image.png" group-title="Not For Sale",Celestial Movies
+#EXTINF:-1 tvg-logo="https://cmpinoy.com.ph/storage/images/c4ca4238a0b923820dcc509a6f75849b/c/logo-og_image.png" group-title="Boss Junier",Celestial Movies
 http://vstream.vip:2889/live/C63469C13383E158CAB4D4EF92A0F3DA/159
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tl/f/f1/Gma_network_logo.png"group-title="Not For Sale",GMA 7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tl/f/f1/Gma_network_logo.png"group-title="Boss Junier",GMA 7
 http://vstream.vip/live/C3FEB9EF72A755ED536E22025F78682D/135
-#EXTINF:-1 tvg-logo="https://imgur.com/NUde7C4.png"group-title="Not For Sale",GTV
+#EXTINF:-1 tvg-logo="https://imgur.com/NUde7C4.png"group-title="Boss Junier",GTV
 http://vstream.vip/live/C3FEB9EF72A755ED536E22025F78682D/138
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Iheartmovies1.png/revision/latest?cb=20210413032151"group-title="Not For Sale",I❤️Movies
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Iheartmovies1.png/revision/latest?cb=20210413032151"group-title="Boss Junier",I❤️Movies
 http://vstream.vip/live/C3FEB9EF72A755ED536E22025F78682D/152
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Heart_of_Asia_logo.svg/2048px-Heart_of_Asia_logo.svg.png" group-title="Boss Junier", Heart of Asia
+http://vstream.vip/live/C3FEB9EF72A755ED536E22025F78682D/151
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/GMA_Life_TV.png"group-title="Not For Sale",GMA LifeTV
 http://tv14s.xyz:8080/live/36820828/31222528/101825.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/GMA_News_TV_logo.png"group-title="Not For Sale",GMA NewsTV
