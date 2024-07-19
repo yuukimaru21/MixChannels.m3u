@@ -145,6 +145,8 @@ https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png"group-title="Not For Sale",CINEMAX HD
 https://epg.pw/stream/d531962a86abaa2e92d2c5701fb1ec7de8fcf5e62a266ba04fa349247a0b5fcd.ctv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/ThrillerMax_Logo.svg/1280px-ThrillerMax_Logo.svg.png" group-title="Not For Sale", Cinemax Thriller HD (new)
+http://w4ktvpro.com:8080/play/live.php?mac=00:1a:79:a4:52:10&extension=ts&stream=824763
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi37eZHll8vxyItIs4DN0MU72VzusporA2tQ&s"group-title="Not For Sale",Cinevault 80's
 https://lnc-cinevault-80s.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1W137J.png"group-title="Not For Sale",Cinevault Western
