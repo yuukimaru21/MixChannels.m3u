@@ -3,8 +3,6 @@
 https://ln.run/MikephKapamilya?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png"group-title="Not For Sale",A2Z
 http://jafupro.com:80/live/1234567890/1234567890/65961.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png"group-title="Boss Junier",A2Z
-http://vstream.vip:80/live/C3FEB9EF72A755ED536E22025F78682D/6
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/320px-TeleRadyo_Serbisyo_logo.svg.png"group-title="Not For Sale",Teleradyo
 https://teleradyo-abscbn-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/3/33/Myx_Logo_2017.png"group-title="Not For Sale",MYX TV Global
