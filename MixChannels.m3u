@@ -1,63 +1,63 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Kapamilya_Online_Live_logo.png"group-title="Not For Sale",Kapamilya Live
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Kapamilya_Online_Live_logo.png" group-title="Not For Sale", Kapamilya Live
 https://ln.run/MikephKapamilya?.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png"group-title="Not For Sale",A2Z
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png" group-title="Not For Sale", A2Z
 http://jafupro.com:80/live/1234567890/1234567890/65961.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/320px-TeleRadyo_Serbisyo_logo.svg.png"group-title="Not For Sale",Teleradyo
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/320px-TeleRadyo_Serbisyo_logo.svg.png" group-title="Not For Sale", Teleradyo
 https://teleradyo-abscbn-ono.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/3/33/Myx_Logo_2017.png"group-title="Not For Sale",MYX TV Global
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/3/33/Myx_Logo_2017.png" group-title="Not For Sale", MYX TV Global
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Cinema_One_logo.png"group-title="Not For Sale",CINEMA ONE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Cinema_One_logo.png" group-title="Not For Sale", CINEMA ONE
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dxs/images/f/f2/Cine_Mo%21_3D_Logo_2011.png"group-title="Not For Sale",Cinemo
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dxs/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="Not For Sale", Cinemo
 https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbo.com.ph/storage/images/077e29b11be80ab57e1a2ecabb7da330/c/PBO_PNG-og_image.png"group-title="Not For Sale",PBO
+#EXTINF:-1 tvg-logo="https://pbo.com.ph/storage/images/077e29b11be80ab57e1a2ecabb7da330/c/PBO_PNG-og_image.png" group-title="Not For Sale", PBO
 https://bit.ly/44LFPvQ
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Viva_Cinema_2021.png"group-title="Not For Sale",VIVACINEMA
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Viva_Cinema_2021.png" group-title="Not For Sale", VIVACINEMA
 http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/276531.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/4/41/Tagalized_Movie_Channel_Logo_2021.png"group-title="Not For Sale",TMC
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/4/41/Tagalized_Movie_Channel_Logo_2021.png" group-title="Not For Sale", TMC
 http://21tv.net:8789/play/live.php?mac=00:1A:79:5D:78:C6&stream=253457&extension=ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1024px-Logo_tvN.svg.png"group-title="Not For Sale",TvN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1024px-Logo_tvN.svg.png" group-title="Not For Sale", TvN
 http://21tv.net:8789/play/live.php?mac=00:1A:79:5D:78:C6&stream=253456&extension=ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/TvN_Movies_Pinoy_Logo_2023.png"group-title="Not For Sale",TvN Movies Tagalog
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/TvN_Movies_Pinoy_Logo_2023.png" group-title="Not For Sale", TvN Movies Tagalog
 http://21tv.net:8789/play/live.php?mac=00:1A:79:5D:78:C6&stream=253481&extension=ts
-#EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/229x0-icon.png"group-title="Not For Sale",Hits
+#EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/229x0-icon.png" group-title="Not For Sale", Hits
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:F2:D0:BB&stream=926174&extension=ts&play_token=AtYtWMj22H
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png"group-title="Not For Sale",Hits Movies
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png" group-title="Not For Sale", Hits Movies
 http://user.scalecdn.co:8080/live/BK012ee1/993c950e60/567717.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/GMA_Life_TV.png"group-title="Not For Sale",GMA LifeTV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/GMA_Life_TV.png" group-title="Not For Sale", GMA LifeTV
 http://tv14s.xyz:8080/live/36820828/31222528/101825.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/GMA_News_TV_logo.png"group-title="Not For Sale",GMA NewsTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/GMA_News_TV_logo.png" group-title="Not For Sale", GMA NewsTV
 http://194.42.205.101:8070/live/GenIptv2023/XkgMCdR7PJzShK5m/144859.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/GMAPinoyTVvector05.png"group-title="Not For Sale",GMA PinoyTV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/GMAPinoyTVvector05.png" group-title="Not For Sale", GMA PinoyTV
 http://tv14s.xyz:8080/live/36820828/31222528/101826.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/GMA_Super_Radyo_Vector_Logo_2022.svg"group-title="Not For Sale",Super Radyo DZBB
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/GMA_Super_Radyo_Vector_Logo_2022.svg" group-title="Not For Sale", Super Radyo DZBB
 https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/TV5_HD_Logo_2023.svg"group-title="Not For Sale",TV5 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/TV5_HD_Logo_2023.svg" group-title="Not For Sale", TV5 HD
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b1jjb9I.png"group-title="Not For Sale",TRUE FM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b1jjb9I.png" group-title="Not For Sale", TRUE FM
 https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OneNewsPH_logo.svg/1200px-OneNewsPH_logo.svg.png"group-title="Not For Sale",One News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OneNewsPH_logo.svg/1200px-OneNewsPH_logo.svg.png" group-title="Not For Sale", One News
 https://bit.ly/3V39Bce
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/RPTV_official_logo.png"group-title="Not For Sale",RPTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/RPTV_official_logo.png" group-title="Not For Sale", RPTV
 https://ln.run/Mikeph-rptv-ph
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/OnePH_logo.svg/2560px-OnePH_logo.svg.png"group-title="Not For Sale",One PH
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/OnePH_logo.svg/2560px-OnePH_logo.svg.png" group-title="Not For Sale", One PH
 http://user.scalecdn.co:8080/live/BK012ee1/993c950e60/567732.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/OneSportsPlus_logo.svg"group-title="Not For Sale",One Sports Plus
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/OneSportsPlus_logo.svg" group-title="Not For Sale", One Sports Plus
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/onesportsplushd_qp.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/PBA_Rush_logo.png"group-title="Not For Sale",PBA RUSH
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/PBA_Rush_logo.png" group-title="Not For Sale", PBA RUSH
 http://user.scalecdn.co:8080/live/BK012ee1/993c950e60/651751.m3u8
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/th/284492/svg/nba-tv-seeklogo.com.svg"group-title="Not For Sale",NBA TV 1080p
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/th/284492/svg/nba-tv-seeklogo.com.svg" group-title="Not For Sale", NBA TV 1080p
 http://doubleclicktv.live:80/70376812/52663544/885
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/th/284492/svg/nba-tv-seeklogo.com.svg"group-title="Not For Sale",NBA TV 1080p
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/th/284492/svg/nba-tv-seeklogo.com.svg" group-title="Not For Sale", NBA TV 1080p
 http://vstream.vip:2889/live/Marlon/Danger/155.ts
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/th/284492/svg/nba-tv-seeklogo.com.svg"group-title="Not For Sale",NBA TV 480p
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/th/284492/svg/nba-tv-seeklogo.com.svg" group-title="Not For Sale", NBA TV 480p
 http://streamsy.online:2999/coachj88/N93DPKS9pJ/136
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png"group-title="Not For Sale",Golf Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Golf_Channel_Logo.png/1200px-Golf_Channel_Logo.png" group-title="Not For Sale", Golf Channel
 http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/1200px-SEC_Network_logo.svg.png"group-title="Not For Sale",Sec Network
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/1200px-SEC_Network_logo.svg.png" group-title="Not For Sale", Sec Network
 http://fl2.moveonjoy.com/SEC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Oxygen_TV_%282017_Logo%29.png"group-title="Not For Sale",Oxygen
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Oxygen_TV_%282017_Logo%29.png" group-title="Not For Sale", Oxygen
 http://fl2.moveonjoy.com/OXYGEN/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sbrXfCJ.png"group-title="Not For Sale",FreeForm
 http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
