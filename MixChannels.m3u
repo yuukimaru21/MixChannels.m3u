@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Kapamilya_Online_Live_logo.png" group-title="Not For Sale", Kapamilya Channel(Test)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/KPChannel.png" group-title="Not For Sale", Kapamilya Channel(Test)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-hls-abscbnono/playlist.m3u8
@@ -19,6 +19,8 @@ https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
 https://bit.ly/44LFPvQ
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Viva_Cinema_2021.png" group-title="Not For Sale", VIVACINEMA
 http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/276531.ts
+#EXTINF:-1 tvg-logo="https://dreamstartv.com/wp-content/uploads/2024/04/logo1-NEW-DREAMSTAR-ORIG.png" group-title="Not For Sale", DreamstarTV
+https://ssh101-fl.bozztv.com/ssh101/dreamstartvnew/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/4/41/Tagalized_Movie_Channel_Logo_2021.png" group-title="Not For Sale", TMC
 http://21tv.net:8789/play/live.php?mac=00:1A:79:5D:78:C6&stream=253457&extension=ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1024px-Logo_tvN.svg.png" group-title="Not For Sale", TvN
