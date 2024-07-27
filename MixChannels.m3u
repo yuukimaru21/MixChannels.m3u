@@ -13,6 +13,8 @@ http://128.0.104.44:8070/GenIptv2023/XkgMCdR7PJzShK5m/276601
 https://teleradyo-abscbn-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/3/33/Myx_Logo_2017.png" group-title="Not For Sale", MYX TV Global
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://orangemagazine.ph/wp-content/uploads/2021/07/BuKo-Logo-1-600x642.png" group-title="Not For Sale", BUKO
+http://194.42.205.99:8070/GenIptv2023/XkgMCdR7PJzShK5m/299952
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Cinema_One_logo.png" group-title="Not For Sale", CINEMA ONE
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dxs/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="Not For Sale", Cinemo
