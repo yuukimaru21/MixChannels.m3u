@@ -7,6 +7,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono
 https://ln.run/MikephKapamilya?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png" group-title="Not For Sale", A2Z
 http://jafupro.com:80/live/1234567890/1234567890/65961.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png" group-title="Not For Sale", A2Z (Backup)
+http://128.0.104.44:8070/GenIptv2023/XkgMCdR7PJzShK5m/276601
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/320px-TeleRadyo_Serbisyo_logo.svg.png" group-title="Not For Sale", Teleradyo
 https://teleradyo-abscbn-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/3/33/Myx_Logo_2017.png" group-title="Not For Sale", MYX TV Global
@@ -31,6 +33,10 @@ http://21tv.net:8789/play/live.php?mac=00:1A:79:5D:78:C6&stream=253481&extension
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:F2:D0:BB&stream=926174&extension=ts&play_token=AtYtWMj22H
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png" group-title="Not For Sale", Hits Movies
 http://user.scalecdn.co:8080/live/BK012ee1/993c950e60/567717.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tl/f/f1/Gma_network_logo.png" group-title="Not For Sale", GMA (Temp)
+https://host.enicsnet.com/hls/gmanixigncode/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/GTV_Philippines_Logo.png/1200px-GTV_Philippines_Logo.png" group-title="Not For Sale", GTV (Temp)
+http://178.128.21.207:1234/stream/new/gtv/master.m3u8?u=gie1928&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/GMA_Life_TV.png" group-title="Not For Sale", GMA LifeTV
 http://tv14s.xyz:8080/live/36820828/31222528/101825.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/GMA_News_TV_logo.png" group-title="Not For Sale", GMA NewsTV
