@@ -91,7 +91,7 @@ http://fl2.moveonjoy.com/SEC_NETWORK/index.m3u8
 http://fl2.moveonjoy.com/OXYGEN/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sbrXfCJ.png"group-title="Not For Sale",FreeForm
 http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ef/77/02/ef77026bd86a32e5c9e791f37705137f.png" group-logo="Not For Sale", WWE
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ef/77/02/ef77026bd86a32e5c9e791f37705137f.png" group-title="Not For Sale", WWE
 http://188.241.219.18/live/Pradeep/Pradeep/711.ts?token=ShJcU0BbQQNHWwwIA1YHX1hUVgVeUQEDB1JUBVAAVgMFUwcHCwdaCFUbGBpEF0dcWF1vWQIXXlYAU04VEBdWQG5ZUBAJEVcIVg8CCBVPF01QXVUSXARTUwNTUwNdUQoeE0BdVhEJQQ1UDwYLFU8XXEFEVUIIVAg+VQcUXgYBEQhfRVheHxEMVzpdUVVWDVEbAxIAEkoXDRJBQFhZEAhfHhNSXUZBUhdcRwMWDgVTBBsVElNfE1sQE0hAWBUhIREeE1VMRlZdEFAKVxYCFRdGGxUSWUM5RwESRRAHVggBQRALEgQQHxEOWB1mV1dZDVBaTVlfXhUXXkMAQE4VCAtdW0VfRm1DWgcbXxsGDQFbDRtE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png"group-title="Not For Sale",Warner TV Cignal
 http://128.0.104.39:8070/GenIptv2023/XkgMCdR7PJzShK5m/170006
