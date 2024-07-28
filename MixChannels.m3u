@@ -269,6 +269,12 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
 https://dqvu8d0acm4xt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/HallmarkMovies-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/E856E29A-0D9D-4250-B163-CCCCEE58E228/3-1x1.png"group-title="Not For Sale",Haunt TV
 https://lnc-haunttv.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkClWG7nzXAUCuzuq730X3r7YqgcejSg82gGz-Wr065BOK4O_Ms9E9vIE&s=10" group-title="Not For Sale", Galaxy TV
+https://readymedia.moderntv.cloud:8092/distribute/readymedia/ABS_stream_gy/5-20-hls/live.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logonetflix.png" group-title="Not For Sale", Netflix Family
+http://newlife3.wanicelife.com:8880/live/3ca7313n07/adsfe332/60375.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logonetflix.png" group-title="Not For Sale", Netflix Horror
+http://newlife3.wanicelife.com:8880/live/00:1A:79:63:44:0C/evAGxUELsy/60374.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png"group-title="Not For Sale",HBO HD
 http://125.227.210.55:8153/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png"group-title="Not For Sale",HBO Mundi
