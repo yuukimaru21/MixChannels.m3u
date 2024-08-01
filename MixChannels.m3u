@@ -524,7 +524,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wx9fkCW.png"group-title="Not For Sale",WOWOW Cinema (JP)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png"group-title="Not For Sale",History Channel
-http://abcnew.site:8880/live/3ca7203n01/asf32e432111asdaxx/3118.ts
+http://supersonictv.live:8080/live/Derrick/Hitman50$/22104.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8j2npVc.png"group-title="Not For Sale",Filmrise Classic TV
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8j2npVc.png"group-title="Not For Sale",Filmrise Family
