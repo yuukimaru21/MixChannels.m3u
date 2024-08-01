@@ -237,6 +237,8 @@ https://varun-iptv.netlify.app/m3u/DMAX.m3u8
 https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/75c6cfbb-5c9e-4bcc-a6d4-38c6f8f63e1f/3.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLnQezIcNQ_fwVMm1wRccjOxvZKwxz6Rio5cG8wKqcaMBJzLuMwOM1Mio&s=10" group-title="Not For Sale", History 365
 https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" group-title="Not For Sale", HISTORY UHD
+http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/323572.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/pluto-tv/images/9/90/PTVDramaLife.svg/revision/latest?cb=20220803190313"group-title="Not For Sale",Drama Life
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f24662bebe0f0000767de32/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
 #EXTINF:-1 tvg-logo="https://fizikamind.com/sites/default/files/dust-logo.png"group-title="Not For Sale",Dust
@@ -257,7 +259,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/play
 https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DTRPV6B.png"group-title="Not For Sale",FilmStream 2
 https://spi-filmstream-1-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/05/Food-Network-Logo.png"group-title="Not For Sale",Food Network (Test)
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/05/Food-Network-Logo.png"group-title="Not For Sale",Food Network
 https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KbmXdjm.png"group-title="Not For Sale",Freebie TV
 https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8
