@@ -37,12 +37,12 @@ http://108.181.122.179:8070/GenIptv2023/XkgMCdR7PJzShK5m/304246
 http://194.42.205.101:8070/GenIptv2023/XkgMCdR7PJzShK5m/299970
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Thrill.svg/revision/latest/scale-to-width-down/250?cb=20231010141408"group-title="Not For Sale", Thrill(Dead)
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/b/b3/TAP_Action_Flix_Logo_2021.png/revision/latest?cb=20220403075630" group-title="Not For Sale", TAP ActionFlix(Dead)
-https://g1z1.short.gy/TapAction
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/b/b3/TAP_Action_Flix_Logo_2021.png/revision/latest?cb=20220403075630" group-title="Not For Sale", TAP ActionFlix
+http://abcnew.site:8880/DYJ14M2353/4745643534/50117
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/5/57/TAP_Edge_Logo_November_2020.png/revision/latest?cb=20220402104521" group-title="(PH)Not For Sale", Tap EDGE
 http://108.181.56.241:8070/GenIptv2023/XkgMCdR7PJzShK5m/304251
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/TapTV-ph.png" group-title="Not For Sale", TapTV(Dead)
-https://g1z1.short.gy/TapTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/TapTV-ph.png" group-title="(PH)Not For Sale", TapTV
+http://abcnew.site:8880/DYJ14M2353/4745643534/66826
 #EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/229x0-icon.png" group-title="(PH)Not For Sale", Hits
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:F2:D0:BB&stream=926174&extension=ts&play_token=AtYtWMj22H
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png" group-title="(PH)Not For Sale", Hits Movies
@@ -108,7 +108,7 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/22913.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Showtime_Women.svg/2560px-Showtime_Women.svg.png" group-title="Not For Sale", Showtime Women
 http://supersonictv.live:8080/live/Derrick/Hitman50$/22916.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/2560px-Animax_logo.svg.png"group-title="Not For Sale",ANIMAX
-http://vo01.mohdtv.com:8880/live/ALLChannels681def0087c7/81216685/50122.ts
+http://abcnew.site:8880/DYJ14M2353/4745643534/50122
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QHfKs73.png"group-title="Not For Sale",Anime x Hidive
 https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SbBKr8L.png"group-title="Not For Sale",Baby Shark TV
