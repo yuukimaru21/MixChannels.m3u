@@ -3,79 +3,77 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Kapamilya_Online_Live_logo.png" group-title="Not For Sale", Kapamilya Live
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Kapamilya_Online_Live_logo.png" group-title="(PH)Not For Sale", Kapamilya Live
 https://ln.run/MikephKapamilya?.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png" group-title="Not For Sale", A2Z
-http://jafupro.com:80/live/1234567890/1234567890/65961.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png" group-title="Not For Sale", A2Z (Backup)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png" group-title="(PH)Not For Sale", A2Z
 http://128.0.104.44:8070/GenIptv2023/XkgMCdR7PJzShK5m/276601
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/320px-TeleRadyo_Serbisyo_logo.svg.png" group-title="Not For Sale", Teleradyo
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/320px-TeleRadyo_Serbisyo_logo.svg.png" group-title="(PH)Not For Sale", Teleradyo
 https://teleradyo-abscbn-ono.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/3/33/Myx_Logo_2017.png" group-title="Not For Sale", MYX TV Global
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/3/33/Myx_Logo_2017.png" group-title="(PH)Not For Sale", MYX TV Global
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://orangemagazine.ph/wp-content/uploads/2021/07/BuKo-Logo-1-600x642.png" group-title="Not For Sale", BUKO
+#EXTINF:-1 tvg-logo="https://orangemagazine.ph/wp-content/uploads/2021/07/BuKo-Logo-1-600x642.png" group-title="(PH)Not For Sale", BUKO
 http://194.42.205.99:8070/GenIptv2023/XkgMCdR7PJzShK5m/299952
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Cinema_One_logo.png" group-title="Not For Sale", CINEMA ONE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Cinema_One_logo.png" group-title="(PH)Not For Sale", CINEMA ONE
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dxs/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="Not For Sale", Cinemo
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dxs/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="(PH)Not For Sale", Cinemo
 https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbo.com.ph/storage/images/077e29b11be80ab57e1a2ecabb7da330/c/PBO_PNG-og_image.png" group-title="Not For Sale", PBO
+#EXTINF:-1 tvg-logo="https://pbo.com.ph/storage/images/077e29b11be80ab57e1a2ecabb7da330/c/PBO_PNG-og_image.png" group-title="(PH)Not For Sale", PBO
 https://bit.ly/44LFPvQ
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Viva_Cinema_2021.png" group-title="Not For Sale", VIVACINEMA
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Viva_Cinema_2021.png" group-title="(PH)Not For Sale", VIVACINEMA
 http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/276531.ts
-#EXTINF:-1 tvg-logo="https://dreamstartv.com/wp-content/uploads/2024/04/logo1-NEW-DREAMSTAR-ORIG.png" group-title="Not For Sale", DreamstarTV
+#EXTINF:-1 tvg-logo="https://dreamstartv.com/wp-content/uploads/2024/04/logo1-NEW-DREAMSTAR-ORIG.png" group-title="Not For Sale", DreamstarTV(Dead)
 https://ssh101-fl.bozztv.com/ssh101/dreamstartvnew/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/4/41/Tagalized_Movie_Channel_Logo_2021.png" group-title="Not For Sale", TMC
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/4/41/Tagalized_Movie_Channel_Logo_2021.png" group-title="Not For Sale", TMC(Dead)
 https://g1z1.short.gy/TMC
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1024px-Logo_tvN.svg.png" group-title="Not For Sale", TvN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1024px-Logo_tvN.svg.png" group-title="Not For Sale", TvN(Dead)
 https://g1z1.short.gy/tvN
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/TvN_Movies_Pinoy_Logo_2023.png" group-title="Not For Sale", TvN Movies Tagalog
 http://8e2nj22fpjzf.frutti99.com:8080/live/Maxtv-219/11117173003364/195539.ts?token=fXXHa.yfUHc.X.ffUyH.ydfHcfycHz.X.y.DE.ts.1f20a27b802f4c027824f0991b12ac5277c0c3007fcf991ba004c6cfb9b2a1f0
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1280px-KIX_logo.svg.png" group-title="Not For Sale", KIX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1280px-KIX_logo.svg.png" group-title="(PH)Not For Sale", KIX
 http://128.0.104.39:8070/GenIptv2023/XkgMCdR7PJzShK5m/144852
-#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/ROCK%20ACTION_3D_HIGH%20RES_BLACK_Print.png" group-title="Not For Sale", Rock Action
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/ROCK%20ACTION_3D_HIGH%20RES_BLACK_Print.png" group-title="(PH)Not For Sale", Rock Action
 http://108.181.122.179:8070/GenIptv2023/XkgMCdR7PJzShK5m/304246
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png" group-title="Not For Sale", Rock Entertainment
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png" group-title="(PH)Not For Sale", Rock Entertainment
 http://194.42.205.101:8070/GenIptv2023/XkgMCdR7PJzShK5m/299970
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Thrill.svg/revision/latest/scale-to-width-down/250?cb=20231010141408"group-title="Not For Sale", Thrill
-https://g1z1.short.gy/Thrill
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/b/b3/TAP_Action_Flix_Logo_2021.png/revision/latest?cb=20220403075630" group-title="Not For Sale", TAP ActionFlix
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Thrill.svg/revision/latest/scale-to-width-down/250?cb=20231010141408"group-title="Not For Sale", Thrill(Dead)
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/b/b3/TAP_Action_Flix_Logo_2021.png/revision/latest?cb=20220403075630" group-title="Not For Sale", TAP ActionFlix(Dead)
 https://g1z1.short.gy/TapAction
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/5/57/TAP_Edge_Logo_November_2020.png/revision/latest?cb=20220402104521" group-title="Not For Sale", Tap EDGE
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/5/57/TAP_Edge_Logo_November_2020.png/revision/latest?cb=20220402104521" group-title="(PH)Not For Sale", Tap EDGE
 http://108.181.56.241:8070/GenIptv2023/XkgMCdR7PJzShK5m/304251
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/TapTV-ph.png" group-title="Not For Sale", TapTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/TapTV-ph.png" group-title="Not For Sale", TapTV(Dead)
 https://g1z1.short.gy/TapTV
-#EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/229x0-icon.png" group-title="Not For Sale", Hits
+#EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/229x0-icon.png" group-title="(PH)Not For Sale", Hits
 http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:F2:D0:BB&stream=926174&extension=ts&play_token=AtYtWMj22H
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png" group-title="Not For Sale", Hits Movies
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png" group-title="(PH)Not For Sale", Hits Movies
 http://user.scalecdn.co:8080/live/BK012ee1/993c950e60/567717.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tl/f/f1/Gma_network_logo.png" group-title="Not For Sale", GMA (Temp)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tl/f/f1/Gma_network_logo.png" group-title="(PH)Not For Sale", GMA
 https://host.enicsnet.com/hls/gmanixigncode/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/GTV_Philippines_Logo.png/1200px-GTV_Philippines_Logo.png" group-title="Not For Sale", GTV (Temp)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/GTV_Philippines_Logo.png/1200px-GTV_Philippines_Logo.png" group-title="Not For Sale", GTV(Dead)
 http://178.128.21.207:1234/stream/new/gtv/master.m3u8?u=gie1928&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/GMA_Life_TV.png" group-title="Not For Sale", GMA LifeTV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/GMA_Life_TV.png" group-title="(PH)Not For Sale", GMA LifeTV
 http://tv14s.xyz:8080/live/36820828/31222528/101825.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/GMA_News_TV_logo.png" group-title="Not For Sale", GMA NewsTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/GMA_News_TV_logo.png" group-title="(PH)Not For Sale", GMA NewsTV
 http://194.42.205.101:8070/live/GenIptv2023/XkgMCdR7PJzShK5m/144859.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/GMAPinoyTVvector05.png" group-title="Not For Sale", GMA PinoyTV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/GMAPinoyTVvector05.png" group-title="(PH)Not For Sale", GMA PinoyTV
 http://tv14s.xyz:8080/live/36820828/31222528/101826.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/GMA_Super_Radyo_Vector_Logo_2022.svg" group-title="Not For Sale", Super Radyo DZBB
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/GMA_Super_Radyo_Vector_Logo_2022.svg" group-title="(PH)Not For Sale", Super Radyo DZBB
 https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/TV5_HD_Logo_2023.svg" group-title="Not For Sale", TV5 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/TV5_HD_Logo_2023.svg" group-title="(PH)Not For Sale", TV5 HD
 https://g1z1.short.gy/TV5Backup
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b1jjb9I.png" group-title="Not For Sale", TRUE FM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b1jjb9I.png" group-title="(PH)Not For Sale", TRUE FM
 https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OneNewsPH_logo.svg/1200px-OneNewsPH_logo.svg.png" group-title="Not For Sale", One News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OneNewsPH_logo.svg/1200px-OneNewsPH_logo.svg.png" group-title="(PH)Not For Sale", One News
 https://bit.ly/3V39Bce
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/RPTV_official_logo.png" group-title="Not For Sale", RPTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/RPTV_official_logo.png" group-title="(PH)Not For Sale", RPTV(Dead)
 http://178.128.21.207:1234/stream/new/rptv/master.m3u8?u=gie1928&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/OnePH_logo.svg/2560px-OnePH_logo.svg.png" group-title="Not For Sale", One PH
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/OnePH_logo.svg/2560px-OnePH_logo.svg.png" group-title="(PH)Not For Sale", One PH
 http://user.scalecdn.co:8080/live/BK012ee1/993c950e60/567732.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/OneSportsPlus_logo.svg" group-title="Not For Sale", One Sports Plus
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/OneSportsPlus_logo.svg" group-title="(PH)Not For Sale", One Sports Plus(Dead)
 https://g1z1.short.gy/OneSports+
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/PBA_Rush_logo.png" group-title="Not For Sale", PBA RUSH
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/PBA_Rush_logo.png" group-title="(PH)Not For Sale", PBA RUSH
 http://user.scalecdn.co:8080/live/BK012ee1/993c950e60/651751.m3u8
-#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images//UAAP%20Varsity%20Channels%20Official%20Logo.png" group-title="Not For Sale", UAAP Varsity Channel
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images//UAAP%20Varsity%20Channels%20Official%20Logo.png" group-title="(PH)Not For Sale", UAAP Varsity Channel
 http://188.93.236.76:8070/GenIptv2023/XkgMCdR7PJzShK5m/299944
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/th/284492/svg/nba-tv-seeklogo.com.svg" group-title="Not For Sale", NBA TV 1080p
 http://doubleclicktv.live:80/70376812/52663544/885
