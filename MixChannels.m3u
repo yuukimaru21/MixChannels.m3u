@@ -87,7 +87,7 @@ http://fl2.moveonjoy.com/OXYGEN/index.m3u8
 http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ef/77/02/ef77026bd86a32e5c9e791f37705137f.png" group-title="Not For Sale", WWE
 http://188.241.219.18/live/Pradeep/Pradeep/711.ts?token=ShJcU0BbQQNHWwwIA1YHX1hUVgVeUQEDB1JUBVAAVgMFUwcHCwdaCFUbGBpEF0dcWF1vWQIXXlYAU04VEBdWQG5ZUBAJEVcIVg8CCBVPF01QXVUSXARTUwNTUwNdUQoeE0BdVhEJQQ1UDwYLFU8XXEFEVUIIVAg+VQcUXgYBEQhfRVheHxEMVzpdUVVWDVEbAxIAEkoXDRJBQFhZEAhfHhNSXUZBUhdcRwMWDgVTBBsVElNfE1sQE0hAWBUhIREeE1VMRlZdEFAKVxYCFRdGGxUSWUM5RwESRRAHVggBQRALEgQQHxEOWB1mV1dZDVBaTVlfXhUXXkMAQE4VCAtdW0VfRm1DWgcbXxsGDQFbDRtE
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png"group-title="Not For Sale",Warner TV Cignal
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png"group-title="(PH)Not For Sale",Warner TV Cignal
 http://128.0.104.39:8070/GenIptv2023/XkgMCdR7PJzShK5m/170006
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hallmark_logo.svg/1280px-Hallmark_logo.svg.png" group-title="Not For Sale", Hallmark Channel
 http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
@@ -800,3 +800,84 @@ https://melon-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-id="Animax.Id" tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/Animax.png " group-title="KIDS ",Animax HD
 https://melon-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+
+###########
+
+#EXTINF:-1 group-title="US New Links", AMC EAST
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="US New Links", Big Ten Network
+http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 group-title="US New Links", BET soul
+http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
+#EXTINF:-1 group-title="US New Links", BET Jams
+http://fl3.moveonjoy.com/BET_Jams/index.m3u8
+#EXTINF:-1 group-title="US New Links", BET Her
+http://fl2.moveonjoy.com/BET_HER/index.m3u8
+#EXTINF:-1 group-title="US New Links", FUSE
+http://fl2.moveonjoy.com/FUSE/index.m3u8
+#EXTINF:-1 group-title="US New Links", FYI
+http://fl2.moveonjoy.com/FYI/index.m3u8
+#EXTINF:-1 group-title="US New Links", LOGO
+http://fl3.moveonjoy.com/Logo/index.m3u8
+#EXTINF:-1 group-title="US New Links", MLB Network
+http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 group-title="US New Links", Starz Comedy
+http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
+#EXTINF:-1 group-title="US New Links", Starz Edge
+http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
+#EXTINF:-1 group-title="US New Links", Starz Encore
+http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
+#EXTINF:-1 group-title="US New Links", Starz Encore Action
+http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:-1 group-title="US New Links", Starz
+http://fl2.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1 group-title="US New Links", SyFy
+http://fl2.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 group-title="US New Links", MGM+ Hits
+http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
+#EXTINF:-1 group-title="US New Links", MGM+
+http://fl2.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 group-title="US New Links", MGM+ Marquee
+http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:-1 group-title="US New Links", Cinemax East
+http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
+#EXTINF:-1 group-title="US New Links", CBS Sports Network
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 group-title="US New Links", BBC America
+http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+#EXTINF:-1 group-title="US New Links", American Heroes Channel
+http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
+#EXTINF:-1 group-title="US New Links", ACC Network
+http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="US New Links", ABC
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 group-title="US New Links", Yes Network
+http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
+#EXTINF:-1 group-title="US New Links", Showtime Women
+http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 group-title="US New Links", Showtime Next
+http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 group-title="US New Links",  Showtime Extreme
+http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1 group-title="US New Links", Showtime
+http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 group-title="US New Links", Showtime 2
+http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1 group-title="US New Links", Paramount Network
+http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 group-title="US New Links", HBO Comedy East
+http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
+#EXTINF:-1 group-title="US New Links", HBO East
+http://fl2.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 group-title="US New Links", FX Movie Channel
+http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
+#EXTINF:-1 group-title="US New Links", NFL Network
+http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="US New Links",
+
+#EXTINF:-1 group-title="US New Links",
+
+#EXTINF:-1 group-title="US New Links",
+
+#EXTINF:-1 tvg-logo="" group-title="Not For Sale", AT-X (No Sub)
+https://neetball.net/live/neet3.m3u8
