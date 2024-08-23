@@ -21,10 +21,7 @@ https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
 https://bit.ly/44LFPvQ
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Viva_Cinema_2021.png" group-title="(PH)Not For Sale", VIVACINEMA
 http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/276531.ts
-#EXTINF:-1 tvg-logo="https://dreamstartv.com/wp-content/uploads/2024/04/logo1-NEW-DREAMSTAR-ORIG.png" group-title="Not For Sale", DreamstarTV(Dead)
-https://ssh101-fl.bozztv.com/ssh101/dreamstartvnew/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/4/41/Tagalized_Movie_Channel_Logo_2021.png" group-title="Not For Sale", TMC(Dead)
-https://g1z1.short.gy/TMC
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1024px-Logo_tvN.svg.png" group-title="Not For Sale", TvN(Dead)
 https://g1z1.short.gy/tvN
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/TvN_Movies_Pinoy_Logo_2023.png" group-title="Not For Sale", TvN Movies Tagalog
