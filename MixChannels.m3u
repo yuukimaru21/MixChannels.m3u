@@ -44,8 +44,8 @@ http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:F2:D0:BB&stream=926174&
 http://user.scalecdn.co:8080/live/BK012ee1/993c950e60/567717.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tl/f/f1/Gma_network_logo.png" group-title="(PH)Not For Sale", GMA
 http://115.146.176.131:80/TimRizal/TimRizal/14.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/GTV_Philippines_Logo.png/1200px-GTV_Philippines_Logo.png" group-title="Not For Sale", GTV(Dead)
-http://178.128.21.207:1234/stream/new/gtv/master.m3u8?u=gie1928&p=03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/GTV_Philippines_Logo.png/1200px-GTV_Philippines_Logo.png" group-title="(PH)Not For Sale", GTV
+http://115.146.176.131:80/TimRizal/TimRizal/35.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/GMA_Life_TV.png" group-title="(PH)Not For Sale", GMA LifeTV
 http://tv14s.xyz:8080/live/36820828/31222528/101825.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/GMA_News_TV_logo.png" group-title="(PH)Not For Sale", GMA NewsTV
