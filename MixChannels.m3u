@@ -79,19 +79,19 @@ http://fl2.moveonjoy.com/OXYGEN/index.m3u8
 http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png"group-title="(PH)Not For Sale",Warner TV Cignal
 http://128.0.104.39:8070/GenIptv2023/XkgMCdR7PJzShK5m/170006
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hallmark_logo.svg/1280px-Hallmark_logo.svg.png" group-title="Not For Sale", Hallmark Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hallmark_logo.svg/1280px-Hallmark_logo.svg.png" group-title="Movies & Shows", Hallmark Channel
 http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hallmark_movies_mysteries.png/1200px-Hallmark_movies_mysteries.png" group-title="Not For Sale", Hallmark Movies & Mysteries
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hallmark_movies_mysteries.png/1200px-Hallmark_movies_mysteries.png" group-title="Movies & Shows", Hallmark Movies & Mysteries
 https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmmsl/hallmarkmmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/2560px-Showtime.svg.png" group-title="Not For Sale", Showtime
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/2560px-Showtime.svg.png" group-title="Movies & Shows", Showtime
 http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/3099.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Showtime_Next_II.svg/revision/latest/scale-to-width-down/300?cb=20201219223426" group-title="Not For Sale", Showtime Next
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Showtime_Next_II.svg/revision/latest/scale-to-width-down/300?cb=20201219223426" group-title="Movies & Shows", Showtime Next
 http://supersonictv.live:8080/live/Derrick/Hitman50$/22914.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Showtime_Extreme.svg/1200px-Showtime_Extreme.svg.png" group-title="Not For Sale", Showtime Extreme
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Showtime_Extreme.svg/1200px-Showtime_Extreme.svg.png" group-title="Movies & Shows", Showtime Extreme
 http://supersonictv.live:8080/live/Derrick/Hitman50$/22912.ts
-#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/SHOFZ.png" group-title="Not For Sale", Showtime Family Zone
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/SHOFZ.png" group-title="Movies & Shows", Showtime Family Zone
 http://supersonictv.live:8080/live/Derrick/Hitman50$/22913.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Showtime_Women.svg/2560px-Showtime_Women.svg.png" group-title="Not For Sale", Showtime Women
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Showtime_Women.svg/2560px-Showtime_Women.svg.png" group-title="Movies & Shows", Showtime Women
 http://supersonictv.live:8080/live/Derrick/Hitman50$/22916.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/2560px-Animax_logo.svg.png"group-title="Anime",ANIMAX
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
