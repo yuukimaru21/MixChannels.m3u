@@ -385,7 +385,7 @@ https://rakuten-drama-12-eu.rakuten.wurl.tv/playlist.m3u8
 https://lds-realcrimebeta-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lds-realcrime2-rakuten/CDN/master.m3u8?ads_amagi_channel=785&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=12&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gdpr_consent=&ads_market=uk&ads_os_language=&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads_rtv_content_id=3800&ads_rtv_content_language=eng&ads_rtvid=271858&ads_streaming_id=b655ce79-6578-43e4-881c-a8171207c224&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/10/Redbox-Logo.png"group-title="Not For Sale",Redbox Spotlight
 https://spotlight-redbox.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M40b4YI.png"group-title="Not For Sale",Retro Crush
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M40b4YI.png"group-title="Anime",Retro Crush
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-retrocrush-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://support.screambox.com/hc/theming_assets/01HZPNGFWZFEMJ6C9QNZDBGXQ8"group-title="Not For Sale",ScreamboxTV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bloodydisgus-cineverse/playlist.m3u8
@@ -425,9 +425,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-movies4free-x
 https://newsflare-whoathatwaswild-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/X/xumo-2022-logo-3E90E951CB-seeklogo.com.png"group-title="Not For Sale",Xumo Play
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxxumofreemovies/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk0wD2RJpBCj1gEwf8EpxdxzOcdUM3OX4c9GpiHySiMYLHpyMiasvZLy0&s=10"group-title="Not For Sale",Crunchyroll Pluto TV (Anime) (EN Dub)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk0wD2RJpBCj1gEwf8EpxdxzOcdUM3OX4c9GpiHySiMYLHpyMiasvZLy0&s=10"group-title="Anime",Crunchyroll Pluto TV (Anime) (EN Dub)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65652f7fc0fc88000883537alivestitch/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bYZtd0G.png"group-title="Not For Sale",Anime All Day
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bYZtd0G.png"group-title="Anime",Anime All Day
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812b7d3249444e05d09cc49&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=830&terminate=false&userId=
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b8f66ea2-17b2-4071-aa18-4829d3ffbb4c/df99j0w-0024fa09-ba79-4cbe-91d4-d060967c1454.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I4ZjY2ZWEyLTE3YjItNDA3MS1hYTE4LTQ4MjlkM2ZmYmI0Y1wvZGY5OWowdy0wMDI0ZmEwOS1iYTc5LTRjYmUtOTFkNC1kMDYwOTY3YzE0NTQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.VbgI9AWuroxTqD7MsY3Twd8kYjpgCxHJmGfSQhEKYXs"group-title="Not For Sale",Crime & Punishment
 https://rightsboosterltd-crime-and-punishment-1-us.xiaomi.wurl.tv/playlist.m3u8
@@ -527,7 +527,7 @@ https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
 https://ssh101-fl.bozztv.com/ssh101/kpoptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png"group-title="Not For Sale",Zoomoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M40b4YI.png"group-title="Not For Sale",RetroCrush (Alternate Link)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M40b4YI.png"group-title="Anime",RetroCrush (Alternate Link)
 https://dai.google.com/linear/hls/event/7LAMGFcmQN6iFJjNoHWXrg/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png"group-title="Not For Sale",FXX
 http://84.17.40.25:80/FXX/index.m3u8
