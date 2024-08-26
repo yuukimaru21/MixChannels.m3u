@@ -21,11 +21,6 @@ https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
 https://bit.ly/44LFPvQ
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Viva_Cinema_2021.png" group-title="(PH)Not For Sale", VIVACINEMA
 http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/276531.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1024px-Logo_tvN.svg.png" group-title="Not For Sale", TvN(Dead)
-https://g1z1.short.gy/tvN
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/TvN_Movies_Pinoy_Logo_2023.png" group-title="Not For Sale", TvN Movies Tagalog
-http://8e2nj22fpjzf.frutti99.com:8080/live/Maxtv-219/11117173003364/195539.ts?token=fXXHa.yfUHc.X.ffUyH.ydfHcfycHz.X.y.DE.ts.1f20a27b802f4c027824f0991b12ac5277c0c3007fcf991ba004c6cfb9b2a1f0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1280px-KIX_logo.svg.png" group-title="(PH)Not For Sale", KIX
 http://128.0.104.39:8070/GenIptv2023/XkgMCdR7PJzShK5m/144852
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/ROCK%20ACTION_3D_HIGH%20RES_BLACK_Print.png" group-title="(PH)Not For Sale", Rock Action
@@ -78,12 +73,10 @@ http://streamsy.online:2999/coachj88/N93DPKS9pJ/136
 http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/1200px-SEC_Network_logo.svg.png" group-title="Sports", Sec Network
 http://fl2.moveonjoy.com/SEC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Oxygen_TV_%282017_Logo%29.png" group-title="Not For Sale", Oxygen
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Oxygen_TV_%282017_Logo%29.png" group-title="US New Links", Oxygen
 http://fl2.moveonjoy.com/OXYGEN/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/sbrXfCJ.png"group-title="Not For Sale",FreeForm
+#EXTINF:-1 tvg-logo="https://imgur.com/sbrXfCJ.png"group-title="US New Links",FreeForm
 http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/ef/77/02/ef77026bd86a32e5c9e791f37705137f.png" group-title="Not For Sale", WWE
-http://188.241.219.18/live/Pradeep/Pradeep/711.ts?token=ShJcU0BbQQNHWwwIA1YHX1hUVgVeUQEDB1JUBVAAVgMFUwcHCwdaCFUbGBpEF0dcWF1vWQIXXlYAU04VEBdWQG5ZUBAJEVcIVg8CCBVPF01QXVUSXARTUwNTUwNdUQoeE0BdVhEJQQ1UDwYLFU8XXEFEVUIIVAg+VQcUXgYBEQhfRVheHxEMVzpdUVVWDVEbAxIAEkoXDRJBQFhZEAhfHhNSXUZBUhdcRwMWDgVTBBsVElNfE1sQE0hAWBUhIREeE1VMRlZdEFAKVxYCFRdGGxUSWUM5RwESRRAHVggBQRALEgQQHxEOWB1mV1dZDVBaTVlfXhUXXkMAQE4VCAtdW0VfRm1DWgcbXxsGDQFbDRtE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png"group-title="(PH)Not For Sale",Warner TV Cignal
 http://128.0.104.39:8070/GenIptv2023/XkgMCdR7PJzShK5m/170006
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hallmark_logo.svg/1280px-Hallmark_logo.svg.png" group-title="Not For Sale", Hallmark Channel
@@ -770,6 +763,11 @@ https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.m
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="" group-title="MOVIES",Cinemax
 https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
+#EXTINF:-1 tvg-id="WWE" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/263px-WWE_Logo.svg.png" group-title="Entertainment", WWE (OTT ONLY)
+https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
+
 ###########
 
 
@@ -860,3 +858,4 @@ http://fl2.moveonjoy.com/ME_TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Not For Sale", MBC MAX
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/21.m3u8
+
