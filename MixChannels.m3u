@@ -266,7 +266,7 @@ http://115.146.176.131:80/TimRizal/TimRizal/85.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png"group-title="Movies & Shows",HBO Hits
 http://iptvtree.net:8080/F16406/60a43828/196480
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png"group-title="Movies & Shows",HBO PLUS
-https://new.embedflix.co/p2p/hboplus/playlist.m3u8
+http://168.181.122.234:8000/play/a02x/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/2560px-HBO_Signature.svg.png"group-title="Movies & Shows",HBO SIGNATURE
 http://supersonictv.live:8080/live/Derrick/Hitman50$/22900.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png"group-title="Movies & Shows",HBO Comedy
