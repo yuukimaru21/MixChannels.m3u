@@ -861,3 +861,6 @@ https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/21.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/VH1_2020.svg/640px-VH1_2020.svg.png" group-title="Movies & Shows", VH1
 http://212.102.60.231/VH1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV5MONDE_logo.png" group-title="Movies & Shows", TV5 Monde Europe(Multi Subs)
+http://151.252.179.225:31803/1:0:1:412:519:2:E08B163:0:0:0
