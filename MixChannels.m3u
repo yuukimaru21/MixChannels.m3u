@@ -525,7 +525,7 @@ http://212.102.60.231/DISNEY_CHANNEL/index.m3u8
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/512px-NickMusic.svg.png"group-title="Entertainment",NickMusic
 http://212.102.60.231:80/NICK_MUSIC/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oafsrlo.png"group-title="Not For Sale",BetHer
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oafsrlo.png"group-title="Movies & Shows",BetHer
 http://212.102.60.231:80/BET_HER/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png"group-title="Movies & Shows",FX (Alternate Link)
 http://84.17.40.25/FX/index.m3u8
@@ -645,9 +645,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/mycinema/manifest.mpd
 https://live.realms.pub/live/27518c4e-29cb-44af-81a2-041e6914fbc4/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png"group-title="For Kids",Disney XD
 http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220925/ourmid/pngtree-18-icon-png-image_6212805.png" group-title="Not For Sale", PlayboyTV 18+ Warning
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220925/ourmid/pngtree-18-icon-png-image_6212805.png" group-title="Uncategorized", PlayboyTV 18+ Warning
 http://cdn.lvbxtv.com:80/2291062283/6512698093/617710?Billybob.Billybob.Billybob.Billybob.Billybob!
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220925/ourmid/pngtree-18-icon-png-image_6212805.png" group-title="Not For Sale", Desire HD 18+ Warning
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220925/ourmid/pngtree-18-icon-png-image_6212805.png" group-title="Uncategorized", Desire HD 18+ Warning
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 ########################
 
@@ -798,7 +798,7 @@ http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 group-title="US New Links",
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/2560px-MeTV_Logo.svg.png" group-title="Not For Sale", METV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/2560px-MeTV_Logo.svg.png" group-title="Movies & Shows", METV
 http://fl2.moveonjoy.com/ME_TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/VH1_2020.svg/640px-VH1_2020.svg.png" group-title="Movies & Shows", VH1
