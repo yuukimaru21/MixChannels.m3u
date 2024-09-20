@@ -273,433 +273,382 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/22897.ts
 http://38.41.8.1:8000/play/a032
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png"group-title="Movies & Shows",HBO Pop
 http://38.41.8.1:8000/play/a00d
-#EXTINF:-1 tvg-logo="https://blog.redbubble.com/wp-content/uploads/2019/04/HellsKitchen_logo.png"group-title="Not For Sale",Hell's Kitchen
+#EXTINF:-1 tvg-logo="https://blog.redbubble.com/wp-content/uploads/2019/04/HellsKitchen_logo.png"group-title="Entertainment",Hell's Kitchen
 https://itv-hellskitchen-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-itvhellskitchen-rakuten/CDN/master.m3u8?ads_amagi_channel=810&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=7&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gdpr_consent=&ads_market=uk&ads_os_language=&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads_rtv_content_id=4317&ads_rtv_content_language=eng&ads_rtvid=271858&ads_streaming_id=929d3ef3-efa9-4aa3-80d4-05fb49edef01&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1200px-HGTV_logo.png"group-title="Not For Sale",HGTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1200px-HGTV_logo.png"group-title="Entertainment",HGTV
 https://varun-iptv.netlify.app/m3u/HGTV.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/%D9%84%D9%88%DA%AF%D9%88%DB%8C_%D8%A2%DB%8C_%D9%81%DB%8C%D9%84%D9%85.png"group-title="Not For Sale",iFilm
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/%D9%84%D9%88%DA%AF%D9%88%DB%8C_%D8%A2%DB%8C_%D9%81%DB%8C%D9%84%D9%85.png"group-title="Movies & Shows",iFilm
 https://cdnlive.presstv.ir/ifilmlive/smil:ifilmen.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png"group-title="Not For Sale",Investigation Discovery
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png"group-title="Educational",Investigation Discovery
 https://varun-iptv.netlify.app/m3u/Investigation_Discovery.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1dgCvNE.png"group-title="Not For Sale",ION Plus East
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1dgCvNE.png"group-title="Movies & Shows",ION Plus East
 https://lnc-ion-plus.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png"group-title="Not For Sale",ION TV East
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png"group-title="Movies & Shows",ION TV East
 https://lnc-ion.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png"group-title="Not For Sale",Laffmore!
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png"group-title="Entertainment",Laffmore!
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-laffmore-tablo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1yrXphuk0s4n3RzPMTUHjplfvynwG01FIIA&s"group-title="Not For Sale",Legend Films (Test)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1yrXphuk0s4n3RzPMTUHjplfvynwG01FIIA&s"group-title="Movies & Shows",Legend Films (Test)
 https://hls.showfer.com/stream/634a34640497ef3e8de5119f/airy.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png"group-title="Not For Sale",Lifetime 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png"group-title="Movies & Shows",Lifetime
 http://tkosportz.live:25461/live/edaniels2023/6066225419/10422.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1280px-Logo_Lifetime_2020.svg.png"group-title="Not For Sale",Lifetime 2
-https://d1r94zrwa3gnlo.cloudfront.net/livestore104/stream/hls/280/280.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GtNgJ28.png"group-title="Not For Sale",Logo Pluto TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GtNgJ28.png"group-title="Movies & Shows",Logo Pluto TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ce5a8954311f992edbe1da2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ce5a8954311f992edbe1da2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=187&terminate=false&userId=
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Lotus_Macau_without_caption_in_english.png/revision/latest?cb=20221203122518"group-title="Not For Sale",Lotus Macau
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Lotus_Macau_without_caption_in_english.png/revision/latest?cb=20221203122518"group-title="Uncategorized",Lotus Macau
 https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p16HNIM.png"group-title="Not For Sale",Made in Hollywood
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p16HNIM.png"group-title="Movies & Shows",Made in Hollywood
 https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0AsmnrAR4D7zvPLcXYhzEYpGVh3qN_Ld_Lg&s"group-title="Not For Sale",Movie Plus Japan
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0AsmnrAR4D7zvPLcXYhzEYpGVh3qN_Ld_Lg&s"group-title="Movies & Shows",Movie Plus Japan
 https://epg.pw/stream/d936b45c78d8992d7d70d0fe13030bceeb62f1c31cefeac8395c718ad157b8d1.m3u8
-#EXTINF:-1 tvg-logo="https://moviedome.de/assets/main/pic/header/moviedome_white_logo_big.png"group-title="Not For Sale",MovieDome
+#EXTINF:-1 tvg-logo="https://moviedome.de/assets/main/pic/header/moviedome_white_logo_big.png"group-title="Movies & Shows",MovieDome
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomeuk-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/645e7828e1979c00087b75b4/colorLogoPNG.png"group-title="Not For Sale",Moviesphere by Lionsgate
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/645e7828e1979c00087b75b4/colorLogoPNG.png"group-title="Movies & Shows",Moviesphere by Lionsgate
 https://lnc-moviesphere.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h1ejU90.png"group-title="Not For Sale",Moviesphere Pluto TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h1ejU90.png"group-title="Movies & Shows",Moviesphere Pluto TV
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2313e05-03e3-44df-802c-415368e9356a/MovieSphere_Plex_LogoDisplay_OnDark.png"group-title="Not For Sale",Moviesphere UK
-https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AOaZmlS.png"group-title="Not For Sale",MTV Biggest Pop
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AOaZmlS.png"group-title="Music",MTV Biggest Pop
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1509fb7809fd000949e39b/master.m3u8?advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&appName=rokuchannel&appVersion=1.0&deviceDNT=1&deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8hpY3Qp.png"group-title="Not For Sale",MTV Block Party
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8hpY3Qp.png"group-title="Music",MTV Block Party
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dD7WbQC.png"group-title="Not For Sale",MTV Dating
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dD7WbQC.png"group-title="Entertainment",MTV Dating
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca6899a37b88b269472ea4b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lTBim20.png"group-title="Not For Sale",MTV Pluto TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lTBim20.png"group-title="Music",MTV Pluto TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca672f515a62078d2ec0ad2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=178&terminate=false&userId=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HYgxPVQ.png"group-title="Not For Sale",MyTime Movie Network East
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HYgxPVQ.png"group-title="Movies & Shows",MyTime Movie Network East
 https://mytime-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png"group-title="Not For Sale",NHK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png"group-title="News & Etc",NHK
 https://cdn1.skygo.mn/live/disk1/NHK_World/HLS-FTA/NHK_World.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D7Lzqyl.png"group-title="Not For Sale",NOTV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D7Lzqyl.png"group-title="Entertainment",NOTV HD
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/409efa6e-c69a-4971-ac4e-a2a76dcd02e5/dew5pgl-6ccee4d9-8cb7-49c7-b43b-df1385da2387.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQwOWVmYTZlLWM2OWEtNDk3MS1hYzRlLWEyYTc2ZGNkMDJlNVwvZGV3NXBnbC02Y2NlZTRkOS04Y2I3LTQ5YzctYjQzYi1kZjEzODVkYTIzODcuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Lw3jJQRyqWI6uFw2CAd4c1Bx9ZF6Osdj3ztWpjG8ao0"group-title="Not For Sale",Paramount Movie Channel
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/409efa6e-c69a-4971-ac4e-a2a76dcd02e5/dew5pgl-6ccee4d9-8cb7-49c7-b43b-df1385da2387.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQwOWVmYTZlLWM2OWEtNDk3MS1hYzRlLWEyYTc2ZGNkMDJlNVwvZGV3NXBnbC02Y2NlZTRkOS04Y2I3LTQ5YzctYjQzYi1kZjEzODVkYTIzODcuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Lw3jJQRyqWI6uFw2CAd4c1Bx9ZF6Osdj3ztWpjG8ao0"group-title="Movies & Shows",Paramount Movie Channel
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg"group-title="Not For Sale",Paramount Plus Picks
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg"group-title="Movies & Shows",Paramount Plus Picks
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fc31252d35decbc4080b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=873&terminate=false&userId=
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8P-aQ0e1dGSTZTASDdxCAM7GvvnUh7yIXKg&s"group-title="Not For Sale",Party Time Karaoke
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8P-aQ0e1dGSTZTASDdxCAM7GvvnUh7yIXKg&s"group-title="Music",Party Time Karaoke
 https://ov.ottera.tv/live/master.m3u8?channel=ssnd_pt_us
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/colorLogoPNG.png"group-title="Not For Sale",Pluto TV 70's Cinema
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/colorLogoPNG.png"group-title="Movies & Shows",Pluto TV 70's Cinema
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca525b650be2571e3943c63/colorLogoPNG.png"group-title="Not For Sale",Pluto TV 80's Rewind
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca525b650be2571e3943c63/colorLogoPNG.png"group-title="Movies & Shows",Pluto TV 80's Rewind
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca525b650be2571e3943c63/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d86f519358a00072b978e/colorLogoPNG.png"group-title="Not For Sale",Pluto TV 90's Throwback
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d86f519358a00072b978e/colorLogoPNG.png"group-title="Movies & Shows",Pluto TV 90's Throwback
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d86f519358a00072b978e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KnlQzs7.png"group-title="Not For Sale",Pluto TV Back Country
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KnlQzs7.png"group-title="Movies & Shows",Pluto TV Back Country
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cabdf1437b88b26947346b2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61325c4f982acd000723287e/colorLogoPNG.png"group-title="Not For Sale",Pluto TV Classic TV Crime Drama
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61325c4f982acd000723287e/colorLogoPNG.png"group-title="Movies & Shows",Pluto TV Classic TV Crime Drama
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f31fd1b4c510e00071c3103/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d8594eb979c0007706de7/colorLogoPNG.png"group-title="Not For Sale",Pluto TV Crime Movies
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d8594eb979c0007706de7/colorLogoPNG.png"group-title="Movies & Shows",Pluto TV Crime Movies
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5c665db3e6c01b72c4977bc2/colorLogoPNG.png"group-title="Not For Sale",Pluto TV Cult Films
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5c665db3e6c01b72c4977bc2/colorLogoPNG.png"group-title="Movies & Shows",Pluto TV Cult Films
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c665db3e6c01b72c4977bc2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=109&terminate=false&userId=
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b64a245a202b3337f09e51d/colorLogoPNG.png"group-title="Not For Sale",Pluto TV Fantastic
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b64a245a202b3337f09e51d/colorLogoPNG.png"group-title="Movies & Shows",Pluto TV Fantastic
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b64a245a202b3337f09e51d&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=66&terminate=false&userId=
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/58e55b14ad8e9c364d55f717/colorLogoPNG.png"group-title="Not For Sale",Pluto TV Flicks of Fury
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/58e55b14ad8e9c364d55f717/colorLogoPNG.png"group-title="Movies & Shows",Pluto TV Flicks of Fury
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=58e55b14ad8e9c364d55f717&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=112&terminate=false&userId=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KtZnWEx.png"group-title="Not For Sale",Pluto TV Ghost Dimension
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c45f5a9d40d58066869fa60/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png"group-title="Not For Sale",Pluto TV Horror
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png"group-title="Movies & Shows",Pluto TV Horror
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=569546031a619b8f07ce6e25&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=75&terminate=false&userId=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WjypZQE.png"group-title="Not For Sale",Pluto TV Indies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WjypZQE.png"group-title="Movies & Shows",Pluto TV Indies
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ce40e59246a395e9758923e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d40bebc5e3d2750a2239d7e/colorLogoPNG.png"group-title="Not For Sale",Pluto TV Land Drama
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d40bebc5e3d2750a2239d7e/colorLogoPNG.png"group-title="Movies & Shows",Pluto TV Land Drama
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d40bebc5e3d2750a2239d7e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d40bebc5e3d2750a2239d7e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=130&terminate=false&userId=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XzAbXAn.png"group-title="Not For Sale",Pluto TV Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XzAbXAn.png"group-title="Movies & Showse",Pluto TV Movies
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5c5c3b948002db3c3e0b262e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=eddfafe3-0584-11eb-82fe-0242ac110002&terminate=false&userId=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a2xIDMJ.png"group-title="Not For Sale",Pluto TV Retro Drama
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a2xIDMJ.png"group-title="Movies & Shows",Pluto TV Retro Drama
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dde47b63585b500099f74ec/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5a66795ef91fef2c7031c599/colorLogoPNG.png"group-title="Not For Sale",Pluto TV Romance
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5a66795ef91fef2c7031c599/colorLogoPNG.png"group-title="Movies & Shows",Pluto TV Romance
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60812fc8539963000707d1e1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8bf321-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7ebb5004-1cd6-44bb-990a-082fdcdcba6d
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ba3fb9c4b078e0f37ad34e8/colorLogoPNG.png"group-title="Not For Sale",Pluto TV Spotlight
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ba3fb9c4b078e0f37ad34e8/colorLogoPNG.png"group-title="Movies & Shows",Pluto TV Spotlight
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d863b98b41000076cd061/colorLogoPNG.png"group-title="Not For Sale",Pluto TV Staff Picks
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f4d863b98b41000076cd061/colorLogoPNG.png"group-title="Movies & Shows",Pluto TV Staff Picks
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d863b98b41000076cd061/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5c6dc88fcd232425a6e0f06e/colorLogoPNG.png"group-title="Not For Sale",Pluto TV Terror
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5c6dc88fcd232425a6e0f06e/colorLogoPNG.png"group-title="Movies & Shows",Pluto TV Terror
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/colorLogoPNG.png"group-title="Not For Sale",Pluto TV Westerns
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/colorLogoPNG.png"group-title="Movies & Shows",Pluto TV Westerns
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8df4bc16e34700077e77d3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e8df4bc16e34700077e77d3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=526&terminate=false&userId=
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2GA4zHuWGHxBK6oRA_WJ8_fQdl-dK57Sp-g&s"group-title="Not For Sale",PopFlix
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2GA4zHuWGHxBK6oRA_WJ8_fQdl-dK57Sp-g&s"group-title="Movies & Shows",PopFlix
 https://75bced9559e343058577aeae94f36a8c.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-gb_Popflix/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=15&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=&ads.market=uk&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.rtv_content_id=4279&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=914e56b1-9153-4296-9d97-7f7788633477&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1068
-#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork_negative/0511ea59-1994-43e7-805b-f1e40b5ddb91-action-movies-rakuten-tv-1646655463-width308-quality90.png"group-title="Not For Sale",Rakuten Action Movies UK
+#EXTINF:-1 tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork_negative/0511ea59-1994-43e7-805b-f1e40b5ddb91-action-movies-rakuten-tv-1646655463-width308-quality90.png"group-title="Movies & Shows",Rakuten Action Movies UK
 https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ht17pUI.png"group-title="Not For Sale",Rakuten Comedy Movies UK
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ht17pUI.png"group-title="Movies & Shows",Rakuten Comedy Movies UK
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/uZFjGGC.png"group-title="Not For Sale",Rakuten Spotlight UK
+#EXTINF:-1 tvg-logo="https://imgur.com/uZFjGGC.png"group-title="Movies & Shows",Rakuten Spotlight UK
 https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/f3BGKhf.png"group-title="Not For Sale",Rakuten TV Drama
+#EXTINF:-1 tvg-logo="https://imgur.com/f3BGKhf.png"group-title="Movies & Shows",Rakuten TV Drama
 https://rakuten-drama-12-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/oZK2Y17.png"group-title="Not For Sale",Real Crime (Test)
+#EXTINF:-1 tvg-logo="https://imgur.com/oZK2Y17.png"group-title="Entertainment",Real Crime
 https://lds-realcrimebeta-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lds-realcrime2-rakuten/CDN/master.m3u8?ads_amagi_channel=785&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=12&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gdpr_consent=&ads_market=uk&ads_os_language=&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads_rtv_content_id=3800&ads_rtv_content_language=eng&ads_rtvid=271858&ads_streaming_id=b655ce79-6578-43e4-881c-a8171207c224&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/10/Redbox-Logo.png"group-title="Not For Sale",Redbox Spotlight
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/10/Redbox-Logo.png"group-title="Movies & Shows",Redbox Spotlight
 https://spotlight-redbox.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M40b4YI.png"group-title="Anime",Retro Crush
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-retrocrush-lgus/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://support.screambox.com/hc/theming_assets/01HZPNGFWZFEMJ6C9QNZDBGXQ8"group-title="Not For Sale",ScreamboxTV
+#EXTINF:-1 tvg-logo="https://support.screambox.com/hc/theming_assets/01HZPNGFWZFEMJ6C9QNZDBGXQ8"group-title="Movies & Shows",ScreamboxTV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bloodydisgus-cineverse/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/65dcbff8db4b893df7e35881/1a2d3560-f5ee-40fc-85b9-105c5692cef1/STV_Horizontal__300dpi_White_Red.png"group-title="Not For Sale",Shout! TV (Test)
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/65dcbff8db4b893df7e35881/1a2d3560-f5ee-40fc-85b9-105c5692cef1/STV_Horizontal__300dpi_White_Red.png"group-title="Movies & Shows",Shout! TV
 https://shoutfactory-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/sony-channel-latam-logo.png"group-title="Not For Sale",Sony Channel (Kodi)
-https://epg.pw/stream/a88101bd3e6f41227dae8cec6728116212ef5af852d984f04e8ef194cd6c5ac0.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png"group-title="Not For Sale",Sony Movies
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/512px-Sony_Movies_Logo.svg.png"group-title="Movies & Shows",Sony Movies
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PSVgw99.png"group-title="Not For Sale",STAR 1
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QOriZy5.png"group-title="Not For Sale",STAR 2
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z1x8ecY.png"group-title="Not For Sale",STAR 3
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/TapMovies-ph.png"group-title="(PH)Not For Sale",TAP MOVIES
-http://vo01.mohdtv.com:8880/live/ALLChannels681def0087c7/81216685/66825.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/512px-TCM_2021.svg.png"group-title="Not For Sale",TCM EAST
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/512px-TCM_2021.svg.png"group-title="Movies & Shows",TCM EAST
 http://143.244.60.30/TCM/index.m3u8
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10d7e8b1-9fe1-4c41-aeb7-331f4fb188aa/desxy6b-7fa4bb5d-9b43-46dc-908b-9f40e5be8023.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEwZDdlOGIxLTlmZTEtNGM0MS1hZWI3LTMzMWY0ZmIxODhhYVwvZGVzeHk2Yi03ZmE0YmI1ZC05YjQzLTQ2ZGMtOTA4Yi05ZjQwZTViZTgwMjMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xKhFdUwjgUoDjvLaJXz-kL1K1qK-sU1D9jEuVGL6Ag8"group-title="(PH)Not For Sale",Thrill
 http://115.146.176.131:80/TimRizal/TimRizal/13.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kUKcxdq.png"group-title="(PH)Not For Sale",TLC
 https://varun-iptv.netlify.app/m3u/TLC.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtdQVVNTqsXj1yFhaIqKxtD5Y4PhWVicb_bcMHRYtGegTkdVANZiuC0BE&s=10"group-title="Not For Sale",TNT East (Geo Blocked)(Use VPN set to US)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtdQVVNTqsXj1yFhaIqKxtD5Y4PhWVicb_bcMHRYtGegTkdVANZiuC0BE&s=10"group-title="Movies & Shows",TNT East (Geo Blocked)(Use VPN set to US)
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/TNTEast.us.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/OvZjnKS.png"group-title="Not For Sale",Toonami Aftermath Movies
+#EXTINF:-1 tvg-logo="https://imgur.com/OvZjnKS.png"group-title="Movies & Shows",Toonami Aftermath Movies
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/982px-TCM_logo.svg.png"group-title="Not For Sale",Turners Classic Movies East
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/982px-TCM_logo.svg.png"group-title="Movies & Shows",Turners Classic Movies East
 http://143.244.60.30/TCM/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/De3khrX.png"group-title="Not For Sale",Unsolved Mysteries
+#EXTINF:-1 tvg-logo="https://imgur.com/De3khrX.png"group-title="Entertainment",Unsolved Mysteries
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/321-3211889_watchmojo-com-logo.png"group-title="Not For Sale",Watchmojo
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/321-3211889_watchmojo-com-logo.png"group-title="Movies & Shows",Watchmojo
 https://watchmojo-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tbivision.com/files/2022/05/Unknown-1.png"group-title="Not For Sale",Wedo Movies
+#EXTINF:-1 tvg-logo="https://tbivision.com/files/2022/05/Unknown-1.png"group-title="Movies & Shows",Wedo Movies
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-movies4free-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.fubo.tv/station_logos/WhoaThatWasWild_m.png"group-title="Not For Sale",Whoa! That Was Wild!
+#EXTINF:-1 tvg-logo="https://images.fubo.tv/station_logos/WhoaThatWasWild_m.png"group-title="Entertainment",Whoa! That Was Wild!
 https://newsflare-whoathatwaswild-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/X/xumo-2022-logo-3E90E951CB-seeklogo.com.png"group-title="Not For Sale",Xumo Play
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/X/xumo-2022-logo-3E90E951CB-seeklogo.com.png"group-title="Movies & Shows",Xumo Play
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxxumofreemovies/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk0wD2RJpBCj1gEwf8EpxdxzOcdUM3OX4c9GpiHySiMYLHpyMiasvZLy0&s=10"group-title="Anime",Crunchyroll Pluto TV (Anime) (EN Dub)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65652f7fc0fc88000883537alivestitch/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bYZtd0G.png"group-title="Anime",Anime All Day
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812b7d3249444e05d09cc49&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=830&terminate=false&userId=
-#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b8f66ea2-17b2-4071-aa18-4829d3ffbb4c/df99j0w-0024fa09-ba79-4cbe-91d4-d060967c1454.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I4ZjY2ZWEyLTE3YjItNDA3MS1hYTE4LTQ4MjlkM2ZmYmI0Y1wvZGY5OWowdy0wMDI0ZmEwOS1iYTc5LTRjYmUtOTFkNC1kMDYwOTY3YzE0NTQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.VbgI9AWuroxTqD7MsY3Twd8kYjpgCxHJmGfSQhEKYXs"group-title="Not For Sale",Crime & Punishment
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b8f66ea2-17b2-4071-aa18-4829d3ffbb4c/df99j0w-0024fa09-ba79-4cbe-91d4-d060967c1454.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I4ZjY2ZWEyLTE3YjItNDA3MS1hYTE4LTQ4MjlkM2ZmYmI0Y1wvZGY5OWowdy0wMDI0ZmEwOS1iYTc5LTRjYmUtOTFkNC1kMDYwOTY3YzE0NTQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.VbgI9AWuroxTqD7MsY3Twd8kYjpgCxHJmGfSQhEKYXs"group-title="Entertainement",Crime & Punishment
 https://rightsboosterltd-crime-and-punishment-1-us.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXhKpkzjLnWiX_IcVU9w8-569wzVWC7AxSCQ&s"group-title="Not For Sale",Rakuten TV Shows
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXhKpkzjLnWiX_IcVU9w8-569wzVWC7AxSCQ&s"group-title="Movies & Shows",Rakuten TV Shows
 https://rakuten-tvshows-1-gb.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://assets.coingecko.com/coins/images/33207/large/ETV__logo.png?1701407386"group-title="Not For Sale",ETV
+#EXTINF:-1 tvg-logo="https://assets.coingecko.com/coins/images/33207/large/ETV__logo.png?1701407386"group-title="Movies & Shows",ETV
 https://sasuprimetv-etv-1-gb.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/CVCLASS/large_dark.png"group-title="Not For Sale",Cinevault Classics
+#EXTINF:-1 tvg-logo="https://static-us-east-2-fastly-a.www.philo.com/images/channel_logos/CVCLASS/large_dark.png"group-title="Movies & Shows",Cinevault Classics
 https://gsn-cinevault-classics-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl8Lr5w85UUIxG0SCV7xCvIR6mu9hQAji5Bw&s"group-title="Not For Sale",Spark TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl8Lr5w85UUIxG0SCV7xCvIR6mu9hQAji5Bw&s"group-title="Movies & Shows",Spark TV
 https://candlelightmedia-sparklightlove-4-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/628e685ba3811100070551a8/colorLogoPNG.png"group-title="Not For Sale",Hallmark Movies & More
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/628e685ba3811100070551a8/colorLogoPNG.png"group-title="Movies & Shows",Hallmark Movies & More
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcrownmediahallmarkmovies/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
-#EXTINF:-1 tvg-logo="https://dr56wvhu2c8zo.cloudfront.net/hi-yahtv/assets/4f35a43c-50ed-4ba3-a1ac-41af0f16b7fb.png"group-title="Not For Sale",Hi-Yah!
+#EXTINF:-1 tvg-logo="https://dr56wvhu2c8zo.cloudfront.net/hi-yahtv/assets/4f35a43c-50ed-4ba3-a1ac-41af0f16b7fb.png"group-title="Movies & Shows",Hi-Yah!
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
-#EXTINF:-1 tvg-logo="https://watchalter.com/wp-content/uploads/2018/12/alter2logo_white.png"group-title="Not For Sale",Alter
+#EXTINF:-1 tvg-logo="https://watchalter.com/wp-content/uploads/2018/12/alter2logo_white.png"group-title="Movies & Shows",Alter
 https://amg00219-gunpowder-alter-redbox.amagi.tv/hls/amagi_hls_data_gunpowder-alter-redbox/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/X87fItjezrBdy-rMHv-T0Q03QIBa_oHDUQfH6uz4ARVhAuk_13kKuVxe_jwH2rBF1Aw"group-title="Not For Sale",ElectricNow
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/X87fItjezrBdy-rMHv-T0Q03QIBa_oHDUQfH6uz4ARVhAuk_13kKuVxe_jwH2rBF1Aw"group-title="Movies & Shows",ElectricNow
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxelectricnow/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiqS37QaTcf5XoveGnUUovHnTBZe3pbv9uNg&s"group-title="Not For Sale",All Reality WeTV Redbox War & Western
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiqS37QaTcf5XoveGnUUovHnTBZe3pbv9uNg&s"group-title="Movies & Shows",All Reality WeTV Redbox War & Western
 https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8?p=Redbox
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/XUMO-logo-2022.svg/1280px-XUMO-logo-2022.svg.png"group-title="Not For Sale",Xumo Play Western
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/XUMO-logo-2022.svg/1280px-XUMO-logo-2022.svg.png"group-title="Movies & Shows",Xumo Play Western
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxxumowesterns/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/1280px-Outdoor_Channel_logo_2017.svg.png"group-title="Not For Sale",Outdoor Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/1280px-Outdoor_Channel_logo_2017.svg.png"group-title="Entertainment",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png"group-title="Not For Sale",Vevo Pop
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png"group-title="Music",Vevo Pop
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61d4b38226b8a50007fe03a6/colorLogoPNG.png"group-title="Not For Sale",Vevo Retro Rock
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61d4b38226b8a50007fe03a6/colorLogoPNG.png"group-title="Music",Vevo Retro Rock
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png"group-title="Not For Sale",Vevo 2K
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png"group-title="Music",Vevo 2K
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/colorLogoPNG.png"group-title="Not For Sale",Vevo Country
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/colorLogoPNG.png"group-title="Music",Vevo Country
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png"group-title="Not For Sale",Vevo 70's
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png"group-title="Music",Vevo 70's
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo70saunz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png"group-title="Not For Sale",Vevo 80's
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png"group-title="Music",Vevo 80's
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo80saunz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png"group-title="Not For Sale",Vevo 90's
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png"group-title="Music",Vevo 90's
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo90saunz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/colorLogoPNG.png"group-title="Not For Sale",Vevo R&B
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/colorLogoPNG.png"group-title="Music",Vevo R&B
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32f397795b750007706448/colorLogoPNG.png"group-title="Not For Sale",Vevo Reggaeton & Trap
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32f397795b750007706448/colorLogoPNG.png"group-title="Music",Vevo Reggaeton & Trap
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://www.besteverchannels.com/uploads/1/2/4/4/124460795/action-logo-1920x1080_1.png?fbclid=IwY2xjawD825BleHRuA2FlbQIxMAABHa1NZsBTdsr_-RLcVgLBxDRQ9MfWDOIBGuNO3ibilaHjRRh-Z0h-s2b58Q_aem_tHuYfS_aD4dnxrDZT_LoFw"group-title="Not For Sale",Action!!!
+#EXTINF:-1 tvg-logo="https://www.besteverchannels.com/uploads/1/2/4/4/124460795/action-logo-1920x1080_1.png?fbclid=IwY2xjawD825BleHRuA2FlbQIxMAABHa1NZsBTdsr_-RLcVgLBxDRQ9MfWDOIBGuNO3ibilaHjRRh-Z0h-s2b58Q_aem_tHuYfS_aD4dnxrDZT_LoFw"group-title="Movies & Shows",Action!!!
 https://bec-action-1-us.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png"group-title="(PH)Not For Sale",TRVL Channel
 https://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png"group-title="Not For Sale",AMC Plex
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png"group-title="Movies & Shows",AMC Plex
 https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png"group-title="Not For Sale",Rush by AMC
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png"group-title="Movies & Shows",Rush by AMC
 https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Sari-Sari_alternate_Logo.PNG/revision/latest?cb=20160619031101"group-title="(PH)Not For Sale",Sari Sari
 https://tinyurl.com/5bcc4nrw
-#EXTINF:-1 tvg-logo="https://imgur.com/XJGdvWj.png"group-title="Not For Sale",Action Movies (China)
+#EXTINF:-1 tvg-logo="https://imgur.com/XJGdvWj.png"group-title="Movies & Shows",Action Movies (China)
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225661/index.m3u8$4.0M_1080
-#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/4538375-200.png"group-title="Not For Sale",Thriller Suspense (China)
+#EXTINF:-1 tvg-logo="https://static.thenounproject.com/png/4538375-200.png"group-title="Movies & Shows",Thriller Suspense (China)
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225665/index.m3u8$4.0M_1080
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62f2ce24f328e00007e7f55a/colorLogoPNG-1660316210137.png"group-title="Not For Sale",Stories by AMC
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62f2ce24f328e00007e7f55a/colorLogoPNG-1660316210137.png"group-title="Movies & Shows",Stories by AMC
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e8254118601b80007b4b7ae&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=135&terminate=false&userId=
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png"group-title="Not For Sale",CNA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png"group-title="News & Etc",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/512px-PBS_Kids_Logo.svg.png"group-title="Not For Sale",PBS Kids East
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/512px-PBS_Kids_Logo.svg.png"group-title="For Kids",PBS Kids East
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png"group-title="Not For Sale",History Channel (JP)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png"group-title="Educational",History Channel (JP)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dX85tIi.png"group-title="Not For Sale",BET
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dX85tIi.png"group-title="Movies & Shows",BET
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9e4dfe90-0228-4bbb-b7cd-1e422a0e7cbb
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MRU0d3y.png"group-title="Not For Sale",Filmhub
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MRU0d3y.png"group-title="Movies & Shows",Filmhub
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Wx9fkCW.png"group-title="Not For Sale",WOWOW Cinema (JP)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wx9fkCW.png"group-title="Movies & Shows",WOWOW Cinema (JP)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png"group-title="Not For Sale",History Channel
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22104.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8j2npVc.png"group-title="Not For Sale",Filmrise Classic TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8j2npVc.png"group-title="Movies & Shows",Filmrise Classic TV
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8j2npVc.png"group-title="Not For Sale",Filmrise Family
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8j2npVc.png"group-title="Movies & Shows",Filmrise Family
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/ANClogo2014.svg/2560px-ANClogo2014.svg.png"group-title="(PH)Not For Sale",ANC HD
 https://ancglobal-abscbn-ono.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/512px-TBS_logo_2016.svg.png"group-title="Not For Sale",TBS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/512px-TBS_logo_2016.svg.png"group-title="Movies & Shows",TBS
 http://143.244.60.30/TBS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/COAQP59.png"group-title="Not For Sale",Sky Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/COAQP59.png"group-title="Sports",Sky Sports
 https://github.com/kusnadipepenk/ntn/raw/master/skyprem.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KT4tdQs.png"group-title="Not For Sale",Nick.Jr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KT4tdQs.png"group-title="For Kids",Nick.Jr
 http://45.5.151.151:8000/play/a0jr
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8c78JM28/image.png"group-title="Not For Sale",Red Bull TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8c78JM28/image.png"group-title="Sports",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-#EXTINF:-1 tvg-logo="https://visitlatitude25.com.au/wp-content/uploads/2019/02/badge-movie-club-white_V2-768x458.png"group-title="Not For Sale",The Movie Club
+#EXTINF:-1 tvg-logo="https://visitlatitude25.com.au/wp-content/uploads/2019/02/badge-movie-club-white_V2-768x458.png"group-title="Movies & Shows",The Movie Club
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/JCq-Wbve8mBOPM4ZjdUYwAVPXDoOkVbG7HcWq_OC6hULh6KoI6P0FqEfGb9RfElKXA"group-title="Not For Sale",The Archive
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/JCq-Wbve8mBOPM4ZjdUYwAVPXDoOkVbG7HcWq_OC6hULh6KoI6P0FqEfGb9RfElKXA"group-title="Movies & Shows",The Archive
 https://ov.ottera.tv/live/master.m3u8?channel=mcom_ta_us
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/syfy-logo-243F5B37C0-seeklogo.com.png"group-title="Not For Sale",SyFy
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/syfy-logo-243F5B37C0-seeklogo.com.png"group-title="Movies & Shows",SyFy
 http://212.102.60.231:80/SYFY/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png"group-title="Not For Sale",Disney Jr.
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/512px-Disney_Junior.svg.png"group-title="For Kids",Disney Jr.
 https://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Kpop_TV_Play.png/revision/latest?cb=20230625152624"group-title="Not For Sale",KPOP TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/Kpop_TV_Play.png/revision/latest?cb=20230625152624"group-title="Korean",KPOP TV
 https://ssh101-fl.bozztv.com/ssh101/kpoptv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png"group-title="Not For Sale",Zoomoo
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png"group-title="For Kids",Zoomoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M40b4YI.png"group-title="Anime",RetroCrush (Alternate Link)
 https://dai.google.com/linear/hls/event/7LAMGFcmQN6iFJjNoHWXrg/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png"group-title="Not For Sale",FXX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png"group-title="Movies & Shows",FXX
 http://84.17.40.25:80/FXX/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.acetelevisionnetwork.com/wp-content/uploads/2021/09/ACE_Logo_Medium_White-1.png"group-title="Not For Sale",Ace
+#EXTINF:-1 tvg-logo="https://www.acetelevisionnetwork.com/wp-content/uploads/2021/09/ACE_Logo_Medium_White-1.png"group-title="Movies & Shows",Ace
 https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iUTL0pm.png"group-title="Not For Sale",RetroTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iUTL0pm.png"group-title="Movies & Shows",RetroTV
 https://cdn.igocast.com/channel8_hls/channel8_master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/512px-Discovery_Kids_Logo_2021-Presente.webp.png"group-title="Not For Sale",Discovery Kids
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/512px-Discovery_Kids_Logo_2021-Presente.webp.png"group-title="For Kids",Discovery Kids
 http://181.78.105.146:8800/play/a06j
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXTW1a2nbwopkn-4AIzhidkSGgMVJQn0p327rJpNmOygaTWWiyu7RRSB6o4XAGlOfhMQo&usqp=CAU"group-title="Not For Sale",Rakuten PopKids
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXTW1a2nbwopkn-4AIzhidkSGgMVJQn0p327rJpNmOygaTWWiyu7RRSB6o4XAGlOfhMQo&usqp=CAU"group-title="For Kids",Rakuten PopKids
 https://narrative-popkids-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png"group-title="Not For Sale",Disney Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png"group-title="For Kids",Disney Channel
 http://212.102.60.231/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y0aF3SA.png"group-title="Not For Sale",Toonami Aftermath
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y0aF3SA.png"group-title="Movies & Shows",Toonami Aftermath
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/512px-NickMusic.svg.png"group-title="Not For Sale",NickMusic
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/512px-NickMusic.svg.png"group-title="Entertainment",NickMusic
 http://212.102.60.231:80/NICK_MUSIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oafsrlo.png"group-title="Not For Sale",BetHer
 http://212.102.60.231:80/BET_HER/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png"group-title="Not For Sale",FX (Alternate Link)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png"group-title="Movies & Shows",FX (Alternate Link)
 http://84.17.40.25/FX/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png"group-title="Not For Sale",Tooncast
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png"group-title="For Kids",Tooncast
 http://45.232.176.17:8000/play/a00r
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/512px-ION_Mystery_logo.svg.png"group-title="Not For Sale",ION Mystery East
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/512px-ION_Mystery_logo.svg.png"group-title="Movies & Shows",ION Mystery East
 https://scripps-ionmystery-2-us.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V8AUJP6.png"group-title="Not For Sale",Da Vinci
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V8AUJP6.png"group-title="Educational",Da Vinci
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00406-tinizinelimited-davincius-tcl/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.mediamath.com/wp-content/uploads/2020/02/Crackle-Plus.png"group-title="Not For Sale",Crackcle Plus
+#EXTINF:-1 tvg-logo="https://www.mediamath.com/wp-content/uploads/2020/02/Crackle-Plus.png"group-title="Movies & Shows",Crackcle Plus
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-crackle-tcl/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H2hD4vT.png"group-title="Not For Sale",Gravitas Movies TCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H2hD4vT.png"group-title="Movies & Shows",Gravitas Movies TCL
 https://gravitas-movies-us.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_of_Crackle.svg/1280px-Logo_of_Crackle.svg.png"group-title="Not For Sale",Crackcle Classics
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_of_Crackle.svg/1280px-Logo_of_Crackle.svg.png"group-title="Movies & Shows",Crackcle Classics
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-crackleclassics-tcl/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/DZRH_logo_2021.png"group-title="Not For Sale",DZRH NewsTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/DZRH_logo_2021.png"group-title="(PH)Not For Sale",DZRH NewsTV
 https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
-#EXTINF:-1 tvg-logo="https://www.caribbeanhottv.com/wp-content/uploads/2018/07/logo-1280x720-1.png"group-title="Not For Sale",Hot7TV
+#EXTINF:-1 tvg-logo="https://www.caribbeanhottv.com/wp-content/uploads/2018/07/logo-1280x720-1.png"group-title="Movies & Shows",Hot7TV
 https://586a9edea75f1.streamlock.net/caribbeanhot7tv/ch7-1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/512px-SundanceTV_2014.svg.png"group-title="Not For Sale",Sundance TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/512px-SundanceTV_2014.svg.png"group-title="Movies & Shows",Sundance TV
 http://84.17.40.25/SUNDANCE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KT4tdQs.png"group-title="Not For Sale",Nick Jr. East
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KT4tdQs.png"group-title="For Kids",Nick Jr. East
 http://212.102.60.231/NICK_JR/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png"group-title="Not For Sale",NBA(TW)
-https://z88.ubtvfans.com/live/rx1/71/e9bcba1bedb0d3bbf4b81a17360a59ab/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png"group-title="Not For Sale",NBA(CA)
-https://z88.ubtvfans.com/live/rx4/1282/5528506edf31d6964f6855781bf66bd4/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/512px-NBA_TV.svg.png"group-title="Not For Sale",NBA TV (Alt)
-https://stream.freetv.fun/3925ae0efbedb5860be0c6f5ed7cb1875529f4f97ace42bf2dac6ef282dc90e4.ctv
-#EXTINF:-1 tvg-logo="https://support.screambox.com/hc/theming_assets/01HZPNGFWZFEMJ6C9QNZDBGXQ8"group-title="Not For Sale",ScreamboxTV(Alt)
+#EXTINF:-1 tvg-logo="https://support.screambox.com/hc/theming_assets/01HZPNGFWZFEMJ6C9QNZDBGXQ8"group-title="Movies & Shows",ScreamboxTV(Alt)
 https://bloodydisgusting-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KDELbnr.png"group-title="Not For Sale",Lone Star TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KDELbnr.png"group-title="Movies & Shows",Lone Star TV
 https://cinedigm-lonestar-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Rush_NZ_Blue.svg/revision/latest?cb=20230902161130"group-title="Not For Sale",Rush TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Rush_NZ_Blue.svg/revision/latest?cb=20230902161130"group-title="Movies & Shows",Rush TV
 https://rush-redbox.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/TR6wcLlkoJYKNp-W2MdT2nhaf2CyVRIs7eSS-m_Iqx8SePuSF4Xt10HHCQn2SQ1hVQ"group-title="Not For Sale",Rakuten TV Show
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/TR6wcLlkoJYKNp-W2MdT2nhaf2CyVRIs7eSS-m_Iqx8SePuSF4Xt10HHCQn2SQ1hVQ"group-title="Movies & Shows",Rakuten TV Show
 https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/TR6wcLlkoJYKNp-W2MdT2nhaf2CyVRIs7eSS-m_Iqx8SePuSF4Xt10HHCQn2SQ1hVQ"group-title="Not For Sale",Rakuten TV Top Free
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/TR6wcLlkoJYKNp-W2MdT2nhaf2CyVRIs7eSS-m_Iqx8SePuSF4Xt10HHCQn2SQ1hVQ"group-title="Movies & Shows",Rakuten TV Top Free
 https://rakuten-topfree-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/TR6wcLlkoJYKNp-W2MdT2nhaf2CyVRIs7eSS-m_Iqx8SePuSF4Xt10HHCQn2SQ1hVQ"group-title="Not For Sale",Rakuten TV Family
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/TR6wcLlkoJYKNp-W2MdT2nhaf2CyVRIs7eSS-m_Iqx8SePuSF4Xt10HHCQn2SQ1hVQ"group-title="Movies & Shows",Rakuten TV Family
 https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/TR6wcLlkoJYKNp-W2MdT2nhaf2CyVRIs7eSS-m_Iqx8SePuSF4Xt10HHCQn2SQ1hVQ"group-title="Not For Sale",Rakuten TV Romance
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/TR6wcLlkoJYKNp-W2MdT2nhaf2CyVRIs7eSS-m_Iqx8SePuSF4Xt10HHCQn2SQ1hVQ"group-title="Movies & Shows",Rakuten TV Romance
 https://rakuten-romance-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/TR6wcLlkoJYKNp-W2MdT2nhaf2CyVRIs7eSS-m_Iqx8SePuSF4Xt10HHCQn2SQ1hVQ"group-title="Not For Sale",Rakuten TV Thriller
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/TR6wcLlkoJYKNp-W2MdT2nhaf2CyVRIs7eSS-m_Iqx8SePuSF4Xt10HHCQn2SQ1hVQ"group-title="Movies & Shows",Rakuten TV Thriller
 https://rakuten-thriller-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/TR6wcLlkoJYKNp-W2MdT2nhaf2CyVRIs7eSS-m_Iqx8SePuSF4Xt10HHCQn2SQ1hVQ"group-title="Not For Sale",Rakuten TV Action 1
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/TR6wcLlkoJYKNp-W2MdT2nhaf2CyVRIs7eSS-m_Iqx8SePuSF4Xt10HHCQn2SQ1hVQ"group-title="Movies & Shows",Rakuten TV Action 1
 https://rakuten-action-8-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/TR6wcLlkoJYKNp-W2MdT2nhaf2CyVRIs7eSS-m_Iqx8SePuSF4Xt10HHCQn2SQ1hVQ"group-title="Not For Sale",Rakuten TV Action 2
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/TR6wcLlkoJYKNp-W2MdT2nhaf2CyVRIs7eSS-m_Iqx8SePuSF4Xt10HHCQn2SQ1hVQ"group-title="Movies & Shows",Rakuten TV Action 2
 https://rakuten-action-9-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/TR6wcLlkoJYKNp-W2MdT2nhaf2CyVRIs7eSS-m_Iqx8SePuSF4Xt10HHCQn2SQ1hVQ"group-title="Not For Sale",Rakuten TV Comedy 1
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/TR6wcLlkoJYKNp-W2MdT2nhaf2CyVRIs7eSS-m_Iqx8SePuSF4Xt10HHCQn2SQ1hVQ"group-title="Movies & Shows",Rakuten TV Comedy 1
 https://rakuten-comedy-8-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/TR6wcLlkoJYKNp-W2MdT2nhaf2CyVRIs7eSS-m_Iqx8SePuSF4Xt10HHCQn2SQ1hVQ"group-title="Not For Sale",Rakuten TV Comedy 2
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/TR6wcLlkoJYKNp-W2MdT2nhaf2CyVRIs7eSS-m_Iqx8SePuSF4Xt10HHCQn2SQ1hVQ"group-title="Movies & Shows",Rakuten TV Comedy 2
 https://rakuten-comedy-9-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/TR6wcLlkoJYKNp-W2MdT2nhaf2CyVRIs7eSS-m_Iqx8SePuSF4Xt10HHCQn2SQ1hVQ"group-title="Not For Sale",Rakuten TV Top Films
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/TR6wcLlkoJYKNp-W2MdT2nhaf2CyVRIs7eSS-m_Iqx8SePuSF4Xt10HHCQn2SQ1hVQ"group-title="Movies & Shows",Rakuten TV Top Films
 https://rakuten-toppfilmer-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/TR6wcLlkoJYKNp-W2MdT2nhaf2CyVRIs7eSS-m_Iqx8SePuSF4Xt10HHCQn2SQ1hVQ"group-title="Not For Sale",Rakuten TV Top Movies
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/TR6wcLlkoJYKNp-W2MdT2nhaf2CyVRIs7eSS-m_Iqx8SePuSF4Xt10HHCQn2SQ1hVQ"group-title="Movies & Shows",Rakuten TV Top Movies
 https://rakuten-huippuelokuvat-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_%282014%29.svg/512px-HBO_Zone_%282014%29.svg.png"group-title="Not For Sale",HBO Zone
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/HBO_Zone_%282014%29.svg/512px-HBO_Zone_%282014%29.svg.png"group-title="Movies & Shows",HBO Zone
 http://supersonictv.live:8080/live/Derrick/Hitman50$/22901.ts
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/amc-5-logo-png-transparent.png"group-title="Not For Sale",AMC(Ying)
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/amc-5-logo-png-transparent.png"group-title="Movies & Shows",AMC(Ying)
 http://61.221.215.25:8800/hls/43/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020557769714_94.png"group-title="Not For Sale",5 StarMax
-http://152.89.62.76:8880/live/3ca7123n11/ewfr543ds/64347.ts
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417171857306359_61.png"group-title="Not For Sale",now 爆谷
-https://stream.freetv.fun/now-bao-gu-1.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png"group-title="Not For Sale",Celestial Classic Movies
-http://newlife3.wanicelife.com:8880/6mmk170005/92179118/71046
-#EXTINF:-1 tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2023-11/legend-xtra.png"group-title="Not For Sale",Legend Xtra
-http://newlife3.wanicelife.com:8880/live/3ca06303n10/asdf2e23e/2934.ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png"group-title="Not For Sale",Hits Movies
-http://mohdtv.com:8880/live/voby4629/76547763/71056.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/02gBCmf.png"group-title="Not For Sale",Starz Cinema
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22920.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5ieoKO1.png"group-title="Not For Sale",Starz Encore
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22925.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Starz_Encore_Westerns.svg/1280px-Starz_Encore_Westerns.svg.png"group-title="Not For Sale",Starz West Link 1
-http://newlife3.wanicelife.com:8880/live/3ca06303n10/asdf2e23e/3149.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Starz_Encore_Westerns.svg/1280px-Starz_Encore_Westerns.svg.png"group-title="Not For Sale",Starz West Link 2
-http://newlife3.wanicelife.com:8880/live/3ca06303n10/asdf2e23e/29491.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png"group-title="Not For Sale",Warner Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png"group-title="Movies & Shows",Warner Channel
 http://181.78.4.186:8000/play/a0et/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png"group-title="Not For Sale",Warner TV
-http://45.235.0.78/WARNERCHANNEL-HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.watch.aetnd.com/sites/2/2023/08/pawn-stars-option-18-logo.png"group-title="Not For Sale",Pawn Stars
+#EXTINF:-1 tvg-logo="https://cdn.watch.aetnd.com/sites/2/2023/08/pawn-stars-option-18-logo.png"group-title="Entertainment",Pawn Stars
 https://jmp2.uk/sam-US300003S3.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6654adb1f99922000854388c/colorLogoPNG.png"group-title="Not For Sale",Summer of Movies
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6654adb1f99922000854388c/colorLogoPNG.png"group-title="Movies & Shows",Summer of Movies
 https://jmp2.uk/plu-6654adb1f99922000854388c-alt.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200020ID_20240520T222641SQUARE.png"group-title="Not For Sale",FilmRise Action
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200020ID_20240520T222641SQUARE.png"group-title="Movies & Shows",FilmRise Action
 https://jmp2.uk/sam-USBB3200020ID.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB32000196O_20240520T222645SQUARE.png"group-title="Not For Sale",FilmRise Western
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB32000196O_20240520T222645SQUARE.png"group-title="Movies & Shows",FilmRise Western
 https://jmp2.uk/sam-USBB32000196O.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2500012DH_20240520T222852SQUARE.png"group-title="Not For Sale",EBONY TV by Lionsgate
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2500012DH_20240520T222852SQUARE.png"group-title="Movies & Shows",EBONY TV by Lionsgate
 https://jmp2.uk/sam-USBD2500012DH.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2900001P9_20240520T222704SQUARE.png"group-title="Not For Sale",K-Stories by CJ ENM
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2900001P9_20240520T222704SQUARE.png"group-title="Korean",K-Stories by CJ ENM
 https://jmp2.uk/sam-USBB2900001P9.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1000002NP_20240520T221604SQUARE.png"group-title="Not For Sale",World’s Most Evil Killers
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1000002NP_20240520T221604SQUARE.png"group-title="Entertainment",World’s Most Evil Killers
 https://jmp2.uk/sam-USBC1000002NP.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200001MG_20240520T221329SQUARE.png"group-title="Not For Sale",REELZ Famous & Infamous
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200001MG_20240520T221329SQUARE.png"group-title="Entertainment",REELZ Famous & Infamous
 https://jmp2.uk/sam-USBB3200001MG.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000255B_20240520T220058SQUARE.png"group-title="Not For Sale",FIFA+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000255B_20240520T220058SQUARE.png"group-title="Sports",FIFA+
 https://jmp2.uk/sam-USBD12000255B.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400004KK_20240520T220108SQUARE.png"group-title="Not For Sale",Just for Laughs GAGS
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400004KK_20240520T220108SQUARE.png"group-title="Entertainment",Just for Laughs GAGS
 https://jmp2.uk/sam-USBC4400004KK.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300009VM_20240520T220110SQUARE.png"group-title="Not For Sale",LOL! Network
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300009VM_20240520T220110SQUARE.png"group-title="Entertainment",LOL! Network
 https://jmp2.uk/sam-USBC1300009VM.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504531A_20240520T215930SQUARE.png"group-title="Not For Sale",Pluto TV Pixel World
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504531A_20240520T215930SQUARE.png"group-title="For Kids",Pluto TV Pixel World
 https://jmp2.uk/sam-USAJ3504531A.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD70000213_20240520T214848SQUARE.png"group-title="Not For Sale",TMZ
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD70000213_20240520T214848SQUARE.png"group-title="Entertainment",TMZ
 https://jmp2.uk/sam-USBD70000213.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US800003JM_20240528T020922SQUARE.png"group-title="Not For Sale",BBC Kids
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US800003JM_20240528T020922SQUARE.png"group-title="For Kids",BBC Kids
 https://jmp2.uk/sam-US800003JM.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20240520T212937SQUARE.png"group-title="Not For Sale",XITE Hits
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20240520T212937SQUARE.png"group-title="Music",XITE Hits
 https://jmp2.uk/sam-USBD3300004RH.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300006O3_20240520T212935SQUARE.png"group-title="Not For Sale",XITE Country Today
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300006O3_20240520T212935SQUARE.png"group-title="Music",XITE Country Today
 https://jmp2.uk/sam-USBD3300006O3.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD330000948_20240520T212945SQUARE.png"group-title="Not For Sale",XITE R&B Classic Jams
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD330000948_20240520T212945SQUARE.png"group-title="Music",XITE R&B Classic Jams
 https://jmp2.uk/sam-USBD330000948.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20240520T212542SQUARE.png"group-title="Not For Sale",NEW K-POP
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20240520T212542SQUARE.png"group-title="Korean",NEW K-POP
 https://jmp2.uk/sam-USAJ3000013FJ.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500016NH_20240520T212852SQUARE.png"group-title="Not For Sale",Stingray Today's K-Pop
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500016NH_20240520T212852SQUARE.png"group-title="Music",Stingray Today's K-Pop
 https://jmp2.uk/sam-USBD3500016NH.m3u8
-#EXTINF:-1 tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/17074387978Cn1LaRusH-512x512-square.png"group-title="Not For Sale",24 Hour Free Movies
+#EXTINF:-1 tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/02/09/17074387978Cn1LaRusH-512x512-square.png"group-title="Movies & Shows",24 Hour Free Movies
 https://jmp2.uk/str-5292.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/colorLogoPNG.png"group-title="Not For Sale",TV Land Sitcoms
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/colorLogoPNG.png"group-title="Movies & Shows",TV Land Sitcoms
 https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6132619f9ddaa50007e7dd86/colorLogoPNG.png"group-title="Not For Sale",More TV Sitcoms
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6132619f9ddaa50007e7dd86/colorLogoPNG.png"group-title="Movies & Shows",More TV Sitcoms
 https://jmp2.uk/plu-6132619f9ddaa50007e7dd86-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60fb01a24795a6000762fe83/colorLogoPNG.png"group-title="Not For Sale",LEGO Kids TV
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60fb01a24795a6000762fe83/colorLogoPNG.png"group-title="For Kids",LEGO Kids TV
 https://jmp2.uk/plu-60fb01a24795a6000762fe83-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b68a18823ecb93393cba2f1/colorLogoPNG.png"group-title="Not For Sale",British Drama
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5b68a18823ecb93393cba2f1/colorLogoPNG.png"group-title="Movies & Shows",British Drama
 https://jmp2.uk/plu-5b68a18823ecb93393cba2f1-alt.m3u8
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65cf8b9328730900087c5324/colorLogoPNG.png"group-title="Not For Sale",Are We There Yet?
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65cf8b9328730900087c5324/colorLogoPNG.png"group-title="Movies & Shows",Are We There Yet?
 https://jmp2.uk/plu-65cf8b9328730900087c5324-alt.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000007MT_20240520T222716SQUARE.png"group-title="Not For Sale",Maverick Black Cinema
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000007MT_20240520T222716SQUARE.png"group-title="Movies & Shows",Maverick Black Cinema
 https://jmp2.uk/sam-USAJ3000007MT.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/MeTV_Toons.png"group-title="Not For Sale",METV Toons
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/MeTV_Toons.png"group-title="For Kids",METV Toons(Offline)
 https://live.realms.pub/live/e9187070-04b5-422e-85c7-817615f616f6//index.m3u8
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png"group-title="Not For Sale",HITS NOW
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png"group-title="Entertainment",HITS NOW
 https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_mycinema_ver1.png"group-title="Not For Sale",MY CINEMA
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_mycinema_ver1.png"group-title="Movies & Shows",MY CINEMA
 https://cdn08jtedge.indihometv.com/dassdvr/133/mycinema/manifest.mpd
-#EXTINF:-1 tvg-logo="https://imgur.com/GqqdPmX.png"group-title="Not For Sale",DoomTube
+#EXTINF:-1 tvg-logo="https://imgur.com/GqqdPmX.png"group-title="Movies & Shows",DoomTube
 https://live.realms.pub/live/27518c4e-29cb-44af-81a2-041e6914fbc4/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png"group-title="Not For Sale",Disney Channel(Test Channel)
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57183
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png"group-title="Not For Sale",Disney XD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png"group-title="For Kids",Disney XD
 http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png"group-title="Not For Sale",Boomerang HD
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/57206
-#EXTINF:-1 tvg-logo=""group-title="Not For Sale",WOW Movies
-https://fl1001.bozztv.com/ssh101/wowchannelsd/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Not For Sale",Unknown Channel
-https://live.realms.pub/live/a7ea5011-cc43-4847-aa0b-b778a1c6595e/index.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/P/playboy-tv-logo-8447C82DEB-seeklogo.com.png" group-title="Not For Sale", PlayboyTV 18+
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220925/ourmid/pngtree-18-icon-png-image_6212805.png" group-title="Not For Sale", PlayboyTV 18+ Warning
 http://cdn.lvbxtv.com:80/2291062283/6512698093/617710?Billybob.Billybob.Billybob.Billybob.Billybob!
-
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220925/ourmid/pngtree-18-icon-png-image_6212805.png" group-title="Not For Sale", Desire HD 18+ Warning
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 ########################
 
 #EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="https://www.pinclipart.com/picdir/big/217-2170584_hbo-logo-png-clipart-transparent-hbo-logo-png.png " group-title="HBO OTT ONLY",HBO (OTT)
