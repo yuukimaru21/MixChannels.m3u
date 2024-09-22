@@ -646,7 +646,7 @@ https://live.realms.pub/live/27518c4e-29cb-44af-81a2-041e6914fbc4/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png"group-title="For Kids",Disney XD
 http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220925/ourmid/pngtree-18-icon-png-image_6212805.png" group-title="Uncategorized", PlayboyTV 18+ Warning
-http://cdn.lvbxtv.com:80/2291062283/6512698093/617710?Billybob.Billybob.Billybob.Billybob.Billybob!
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220925/ourmid/pngtree-18-icon-png-image_6212805.png" group-title="Uncategorized", Desire HD 18+ Warning
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 ########################
