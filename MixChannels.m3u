@@ -1,6 +1,8 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/KPChannel.png" group-title="(PH)Not For Sale", Kapamilya Channel
 http://115.146.176.131:80/TimRizal/TimRizal/16.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/The_Filipino_Channel_%28TFC%29_logo.png" group-title="(PH)Not For Sale", TFC
+https://tfcguam-abscbn-ono.amagi.tv/index_6.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Kapamilya_Online_Live_logo.png" group-title="(PH)Not For Sale", Kapamilya Live
 https://ln.run/MikephKapamilya?.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png" group-title="(PH)Not For Sale", A2Z
@@ -275,6 +277,8 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/22897.ts
 http://38.41.8.1:8000/play/a032
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png"group-title="Movies & Shows",HBO Pop
 http://38.41.8.1:8000/play/a00d
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/HBO_Mundi_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200508220536" group-title="Movies & Shows", HBO Mundi
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/257
 #EXTINF:-1 tvg-logo="https://blog.redbubble.com/wp-content/uploads/2019/04/HellsKitchen_logo.png"group-title="Entertainment",Hell's Kitchen
 https://itv-hellskitchen-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-itvhellskitchen-rakuten/CDN/master.m3u8?ads_amagi_channel=810&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=7&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gdpr_consent=&ads_market=uk&ads_os_language=&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads_rtv_content_id=4317&ads_rtv_content_language=eng&ads_rtvid=271858&ads_streaming_id=929d3ef3-efa9-4aa3-80d4-05fb49edef01&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1200px-HGTV_logo.png"group-title="Entertainment",HGTV
@@ -651,6 +655,8 @@ http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220925/ourmid/pngtree-18-icon-png-image_6212805.png" group-title="Uncategorized", Desire HD 18+ Warning
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220925/ourmid/pngtree-18-icon-png-image_6212805.png" group-title="Uncategorized", VIXEN 18+ Warning
+https://cdnsk003.panaccess.com/local/Vixen/playlist.m3u8
 ########################
 
 #EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="https://www.pinclipart.com/picdir/big/217-2170584_hbo-logo-png-clipart-transparent-hbo-logo-png.png " group-title="HBO OTT ONLY",HBO (OTT)
