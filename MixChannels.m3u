@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/KPChannel.png" group-title="(PH)Not For Sale", Kapamilya Channel
-http://115.146.176.131:80/TimRizal/TimRizal/16.ts
+https://wag.ika.lat/stream/1770104596
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/The_Filipino_Channel_%28TFC%29_logo.png" group-title="(PH)Not For Sale", TFC
 https://tfcguam-abscbn-ono.amagi.tv/index_6.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Kapamilya_Online_Live_logo.png" group-title="(PH)Not For Sale", Kapamilya Live
@@ -20,7 +20,7 @@ https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbo.com.ph/storage/images/077e29b11be80ab57e1a2ecabb7da330/c/PBO_PNG-og_image.png" group-title="(PH)Not For Sale", PBO
 http://115.146.176.131:80/TimRizal/TimRizal/32.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/d/de/20200728010847%21NBA_TV_Philippines.png" group-title="(PH)Not For Sale", NBA PH
-http://115.146.176.131:80/TimRizal/TimRizal/97.ts
+https://wag.ika.lat/stream/1044534831
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Viva_Cinema_2021.png" group-title="(PH)Not For Sale", VIVACINEMA
 http://103.244.145.15/live/Pradeep/Pradeep/151090.ts?token=ShJcU0BbQQNHCAAIAFMDCA9UCVEFDVZXBVdaAQZcUFYACQcDVgFRC1YbGBpEF0dcWF1vWQIXXlAEU1IOVUgRR0JVRm1aV0EDRw0FCwFVBRsVEkRZC1BGWwBVUANSXQUCBAQYEENaBxtfGwcNBVUECg4SHBIDTRAEQwwDWzoAVkRYU1EQCV0WVQkVFldZPFFcVFFeVEQPRlATTkBeFhQRCF9FWF4fEQFQEUtVTFJBDxsIAwUIRBlGAl4XDEMXHREIE3RxEB8RBkERXFpLXgxbGwMSRENEGUYIQj0QUhYQQVdQXVFAEQlBCUcVFlVWG2paVl5eVQVBDQ5fEUANR1URHhNdW1xaRwxLOkldXBVZFwoMAgYAUQBGHA==
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1280px-KIX_logo.svg.png" group-title="(PH)Not For Sale", KIX
@@ -40,9 +40,9 @@ http://185.224.217.95:3050/live/heathwoods/woodsheath/558765.ts?token=TBdbWBBdEl
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png" group-title="(PH)Not For Sale", Hits Movies
 http://115.146.176.131:80/TimRizal/TimRizal/36.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tl/f/f1/Gma_network_logo.png" group-title="(PH)Not For Sale", GMA
-http://115.146.176.131:80/TimRizal/TimRizal/14.ts
+https://wag.ika.lat/stream/812083425
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/GTV_Philippines_Logo.png/1200px-GTV_Philippines_Logo.png" group-title="(PH)Not For Sale", GTV
-http://115.146.176.131:80/TimRizal/TimRizal/35.ts
+https://wag.ika.lat/stream/872206966
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/GMA_Life_TV.png" group-title="(PH)Not For Sale", GMA LifeTV
 http://tv14s.xyz:8080/live/36820828/31222528/101825.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/GMA_News_TV_logo.png" group-title="(PH)Not For Sale", GMA NewsTV
@@ -96,7 +96,7 @@ http://supersonictv.live:8080/live/Derrick/Hitman50$/22913.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Showtime_Women.svg/2560px-Showtime_Women.svg.png" group-title="Movies & Shows", Showtime Women
 http://supersonictv.live:8080/live/Derrick/Hitman50$/22916.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/2560px-Animax_logo.svg.png"group-title="Anime",ANIMAX
-http://115.146.176.131:80/TimRizal/TimRizal/59.ts
+https://wag.ika.lat/stream/870547344
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QHfKs73.png"group-title="Anime",Anime x Hidive
 https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SbBKr8L.png"group-title="For Kids",Baby Shark TV
@@ -152,7 +152,7 @@ https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hW6z1RG.png"group-title="Korean",AsianCrush
 https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png"group-title="Movies & Shows",AXN
-http://115.146.176.131:80/TimRizal/TimRizal/49.ts
+https://wag.ika.lat/stream/2084767267
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest?cb=20171204084854"group-title="Educational",BBC Earth
 https://d206rrc0yoxllg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-staxtq3pp4n9p/BBC_Earth_US.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1283856018099798022/5ectikba_400x400.jpg"group-title="News & Etc",BBC News Asia
