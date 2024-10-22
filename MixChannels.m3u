@@ -80,7 +80,7 @@ http://fl2.moveonjoy.com/OXYGEN/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sbrXfCJ.png"group-title="US New Links",FreeForm
 http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png"group-title="(PH)Not For Sale",Warner TV Cignal
-http://128.0.104.39:8070/GenIptv2023/XkgMCdR7PJzShK5m/170006
+http://115.146.176.131:80/TimRizal/TimRizal/86.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hallmark_logo.svg/1280px-Hallmark_logo.svg.png" group-title="Movies & Shows", Hallmark Channel
 http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hallmark_movies_mysteries.png/1200px-Hallmark_movies_mysteries.png" group-title="Movies & Shows", Hallmark Movies & Mysteries
