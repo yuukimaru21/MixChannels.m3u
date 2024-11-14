@@ -384,7 +384,7 @@ https://lds-realcrimebeta-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lds-real
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/10/Redbox-Logo.png"group-title="Movies & Shows",Redbox Spotlight
 https://spotlight-redbox.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M40b4YI.png"group-title="Anime",Retro Crush
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-retrocrush-lgus/playlist.m3u8
+https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/amg01201-cinedigmenterta-retrocrush-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://support.screambox.com/hc/theming_assets/01HZPNGFWZFEMJ6C9QNZDBGXQ8"group-title="Movies & Shows",ScreamboxTV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bloodydisgus-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/65dcbff8db4b893df7e35881/1a2d3560-f5ee-40fc-85b9-105c5692cef1/STV_Horizontal__300dpi_White_Red.png"group-title="Movies & Shows",Shout! TV
