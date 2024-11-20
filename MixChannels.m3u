@@ -37,6 +37,10 @@ https://g1z1.short.gy/PH-TapEdge
 http://115.146.176.131:80/TimRizal/TimRizal/
 #EXTINF:-1 tvg-logo="https://console.celestialtiger.com/images/upload/f7a1bb5538dd1e688ab77f6ca603159d5d7b1755.png" group-title="(PH)Not For Sale", PopC 
 http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/bbaed7c4-c113-49e9-900b-aa96efdc8a8a/TVB_Pearl_Horizontal__White__-_Angus_Yip.png" group-title="(PH)Not For Sale", Pearl Drama
+http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+#EXTINF:-1 tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv061_mobile.png" group-title="(PH)Not For Sale", Jingtian Movie Channel
+http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mediacorp-channel-5-2023-logo-C31904224B-seeklogo.com.png" group-title="For Kids", MeWatch 5
 http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 #EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/229x0-icon.png" group-title="(PH)Not For Sale", Hits
