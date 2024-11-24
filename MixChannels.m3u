@@ -48,9 +48,9 @@ http://185.224.217.95:3050/live/heathwoods/woodsheath/558765.ts?token=TBdbWBBdEl
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png" group-title="(PH)Not For Sale", Hits Movies
 http://115.146.176.131:80/TimRizal/TimRizal/36.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tl/f/f1/Gma_network_logo.png" group-title="(PH)Not For Sale", GMA
-https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
+http://115.146.176.131:80/TimRizal/TimRizal/14.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/GTV_Philippines_Logo.png/1200px-GTV_Philippines_Logo.png" group-title="(PH)Not For Sale", GTV
-https://wag.ika.lat/stream/872206966
+http://115.146.176.131:80/TimRizal/TimRizal/35.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/GMA_Life_TV.png" group-title="(PH)Not For Sale", GMA LifeTV
 http://tv14s.xyz:8080/live/36820828/31222528/101825.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/GMA_News_TV_logo.png" group-title="(PH)Not For Sale", GMA NewsTV
