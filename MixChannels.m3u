@@ -232,7 +232,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlnz-sam
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Entertainment_Tonight_2021.svg/240px-Entertainment_Tonight_2021.svg.png"group-title="Entertainment",ET Channel
 https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.gameloop.com/img/4164de6d40daa1d8b0d14fae5d3e1315.png?imageMogr2/thumbnail/172.8x172.8/format/webp"group-title="Entertainment",FAILARMY
-https://failarmy-international-ca.samsung.wurl.tv/playlist.m3u8
+https://failarmy-international-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CIYnLWz.png"group-title="Movies & Shows",Fear Factor 1
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/588128d17d64bc0d0f385c34/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CIYnLWz.png"group-title="Movies & Shows",Fear Factor 2
