@@ -150,7 +150,7 @@ https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x
 #EXTINF:-1 tvg-logo="https://imgur.com/hA3kOCE.png"group-title="Movies & Shows",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TOB9vmW.png"group-title="Entertainment",AFV
-https://lnc-afv.tubi.video/playlist.m3u8
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png"group-title="Movies & Shows",AMC
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/04/01/large/20220401234506250664_19.png"group-title="Movies & Shows",AMC Thriller
