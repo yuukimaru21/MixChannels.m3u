@@ -11,8 +11,8 @@ http://115.146.176.131:80/TimRizal/TimRizal/68.ts​
 https://teleradyo-abscbn-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/3/33/Myx_Logo_2017.png" group-title="(PH)Not For Sale", MYX TV Global
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://orangemagazine.ph/wp-content/uploads/2021/07/BuKo-Logo-1-600x642.png" group-title="(PH)Not For Sale", BUKO
-http://194.42.205.99:8070/GenIptv2023/XkgMCdR7PJzShK5m/299952
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Jeepney_TV_logo.png" group-title="(PH)Not For Sale", JeepneyTV
+http://115.146.176.131:80/TimRizal/TimRizal/64.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Cinema_One_logo.png" group-title="(PH)Not For Sale", CINEMA ONE
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dxs/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="(PH)Not For Sale", Cinemo
@@ -59,7 +59,7 @@ http://194.42.205.101:8070/live/GenIptv2023/XkgMCdR7PJzShK5m/144859.ts
 http://tv14s.xyz:8080/live/36820828/31222528/101826.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/GMA_Super_Radyo_Vector_Logo_2022.svg" group-title="(PH)Not For Sale", Super Radyo DZBB
 https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/TV5_HD_Logo_2023.svg" group-title="(PH)Not For Sale", TV5 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_%28Philippines%29_logo.svg/2048px-TV5_%28Philippines%29_logo.svg.png" group-title="(PH)Not For Sale", TV5 HD
 https://g1z1.short.gy/TV5Backup
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b1jjb9I.png" group-title="(PH)Not For Sale", TRUE FM
 https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8
