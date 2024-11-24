@@ -66,7 +66,7 @@ https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OneNewsPH_logo.svg/1200px-OneNewsPH_logo.svg.png" group-title="(PH)Not For Sale", One News
 https://bit.ly/3V39Bce
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/rptv%20logo%20final-02.png" group-title="(PH)Not For Sale", RPTV
-http://115.146.176.131:80/TimRizal/TimRizal/4.ts
+http://115.146.176.131:80/TimRizal/TimRizal/33.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/OnePH_logo.svg/2560px-OnePH_logo.svg.png" group-title="(PH)Not For Sale", One PH
 http://115.146.176.131:80/TimRizal/TimRizal/81.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/OneSportsPlus_logo.svg" group-title="(PH)Not For Sale", One Sports Plus
