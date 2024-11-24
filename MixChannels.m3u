@@ -215,8 +215,6 @@ https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
 https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png"group-title="Educational",Discovery Turbo
 https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/The_logo_of_DLife_TV_Channel.png"group-title="Uncategorized",Unknown
-https://epg.pw/stream/00a21096c013f41b6357588d77d1f45e20acd3f30e58f64b5102216a21ad238f.m3u8
 #EXTINF:-1 tvg-logo="https://getvectorlogo.com/wp-content/uploads/2019/07/dmax-vector-logo.png"group-title="Educational",DMAX
 https://varun-iptv.netlify.app/m3u/DMAX.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/63753fb9eee27a1d76634d39/63c08bf06016a074ae4ab8b5_wildplanet-logo.png" group-title="Educational", Wild Planet
@@ -227,8 +225,6 @@ https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da6
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/323572.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/pluto-tv/images/9/90/PTVDramaLife.svg/revision/latest?cb=20220803190313"group-title="Movies & Shows",Drama Life
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f24662bebe0f0000767de32/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
-#EXTINF:-1 tvg-logo="https://fizikamind.com/sites/default/files/dust-logo.png"group-title="Uncategorized",Dust
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00219-gunpowdersky-dustintlnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Entertainment_Tonight_2021.svg/240px-Entertainment_Tonight_2021.svg.png"group-title="Entertainment",ET Channel
 https://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.gameloop.com/img/4164de6d40daa1d8b0d14fae5d3e1315.png?imageMogr2/thumbnail/172.8x172.8/format/webp"group-title="Entertainment",FAILARMY
@@ -257,8 +253,6 @@ https://epg.pw/stream/2cea890736aa8781a48a0e9ac24bad82e110c6ee8cd15a43b57608ea41
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CqSv3xl.jpeg"group-title="Movies & Shows",Highway to Heaven
 https://dqvu8d0acm4xt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/HallmarkMovies-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/E856E29A-0D9D-4250-B163-CCCCEE58E228/3-1x1.png"group-title="Uncategorized",Haunt TV
-https://lnc-haunttv.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkClWG7nzXAUCuzuq730X3r7YqgcejSg82gGz-Wr065BOK4O_Ms9E9vIE&s=10" group-title="Entertainment", Galaxy TV
 https://readymedia.moderntv.cloud:8092/distribute/readymedia/ABS_stream_gy/5-20-hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logonetflix.png" group-title="Movies & Shows", Netflix Horror
@@ -307,8 +301,6 @@ https://hls.showfer.com/stream/634a34640497ef3e8de5119f/airy.m3u8
 http://tkosportz.live:25461/live/edaniels2023/6066225419/10422.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GtNgJ28.png"group-title="Movies & Shows",Logo Pluto TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ce5a8954311f992edbe1da2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ce5a8954311f992edbe1da2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=187&terminate=false&userId=
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Lotus_Macau_without_caption_in_english.png/revision/latest?cb=20221203122518"group-title="Uncategorized",Lotus Macau
-https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p16HNIM.png"group-title="Movies & Shows",Made in Hollywood
 https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0AsmnrAR4D7zvPLcXYhzEYpGVh3qN_Ld_Lg&s"group-title="Movies & Shows",Movie Plus Japan
@@ -659,26 +651,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/mycinema/manifest.mpd
 https://live.realms.pub/live/27518c4e-29cb-44af-81a2-041e6914fbc4/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png"group-title="For Kids",Disney XD
 http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220925/ourmid/pngtree-18-icon-png-image_6212805.png" group-title="Uncategorized", PlayboyTV 18+ Warning
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220925/ourmid/pngtree-18-icon-png-image_6212805.png" group-title="Uncategorized", Desire HD 18+ Warning
-http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220925/ourmid/pngtree-18-icon-png-image_6212805.png" group-title="Uncategorized", VIXEN 18+ Warning
-https://cdnsk003.panaccess.com/local/Vixen/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220925/ourmid/pngtree-18-icon-png-image_6212805.png" group-title="Uncategorized", DorcelTV 18+ Warning
-http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220925/ourmid/pngtree-18-icon-png-image_6212805.png" group-title="Uncategorized", EroxxxTV 18+ Warning
-http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220925/ourmid/pngtree-18-icon-png-image_6212805.png" group-title="Uncategorized", ExtasyTV 18+ Warning
-http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220925/ourmid/pngtree-18-icon-png-image_6212805.png" group-title="Uncategorized", BrazzersTV 18+ Warning
-http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220925/ourmid/pngtree-18-icon-png-image_6212805.png" group-title="Uncategorized", PassionXXX 18+ Warning
-https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220925/ourmid/pngtree-18-icon-png-image_6212805.png" group-title="Uncategorized", BlueTV Public 18+ Warning
-http://vip.sehzade5.com:2095/live/zn3991/rkn.5483/4083.m3u8
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220925/ourmid/pngtree-18-icon-png-image_6212805.png" group-title="Uncategorized", XY Plus 18+ Warning
-http://7b32edd3.edmonst.net/iptv/G2ARAUTUP9NK95/12118/index.m3u8
+
 
 ########################
 
