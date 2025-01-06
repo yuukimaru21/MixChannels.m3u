@@ -1419,7 +1419,7 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/kix_hd1.mpd
 http://tv.cloudcdn.me/live.ts?channelId=199&uid=2496&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/fictionalcrossover/images/6/64/Pixels_logo.png/revision/latest?cb=20230115081255" group-title="Test Links", Pixel TV Movies Channel
 https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
-#EXTINF:-1 tvg-logo="1https://cdn.freebiesupply.com/logos/large/2x/lifetime-movies-network-logo-png-transparent.png" group-title="Test Links", Movie Favorites by Lifetime
+#EXTINF:-1 tvg-logo="https://images-cdn3.welcomesoftware.com/assets/MovieFavorites-hero.jpg/Zz1jYjFkMWY2NGEwNjYxMWVmYTdmYTllMDI5N2MwOTY3Mg==?width=960&height=538" group-title="Test Links", Movie Favorites by Lifetime
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63335b193583440007c859fb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c32f13eb-8395-4e23-87b8-0bd6e7d05f16
 #EXTINF:-1 tvg-logo="https://shahid.mbc.net/mediaObject/40a83fb3-2eb3-4d13-83dd-f39a3060d20e?height=auto&width=288&croppingPoint=&version=1&type=webp" group-title="Test Links", MBC Movies Thriller
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
