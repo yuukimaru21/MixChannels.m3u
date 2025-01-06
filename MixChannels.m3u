@@ -262,23 +262,23 @@ http://41.205.93.154/HBO/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png"group-title="Movies & Shows",HBO HD
 http://125.227.210.55:8153/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png"group-title="Movies & Shows",HBO 2
-http://38.41.8.1:8000/play/a05h
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/HBO3_gradient.PNG" group-title="Movies & Shows",HBO 3
+https://fl5.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/HBO3_gradient.PNG" group-title="Movies & Shows",HBO 3 (offline)
 http://185.236.229.62:9981/play/a062
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/800px-HBO_Family.svg.png"group-title="Movies & Shows",HBO FAMILY
 http://115.146.176.131:80/TimRizal/TimRizal/85.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png"group-title="Movies & Shows",HBO Hits
-http://iptvtree.net:8080/F16406/60a43828/196480
+http://newlife3.wanicelife.com:8880/live/12mc180165/69681866/71037.ts
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png"group-title="Movies & Shows",HBO PLUS
-http://168.181.122.234:8000/play/a02x/index.m3u8
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/245
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/2560px-HBO_Signature.svg.png"group-title="Movies & Shows",HBO SIGNATURE
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22900.ts
+http://newlife3.wanicelife.com:8880/live/kg48m3n08252/xcsdfawq122/3121.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png"group-title="Movies & Shows",HBO Comedy
-http://supersonictv.live:8080/live/Derrick/Hitman50$/22897.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png"group-title="Movies & Shows",HBO Xtreme
+https://fl5.moveonjoy.com/HBO_COMEDY/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png"group-title="Movies & Shows",HBO Xtreme (offline)
 http://38.41.8.1:8000/play/a032
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png"group-title="Movies & Shows",HBO Pop
-http://38.41.8.1:8000/play/a00d
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/261
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/HBO_Mundi_%282020%29.svg/revision/latest/scale-to-width-down/200?cb=20200508220536" group-title="Movies & Shows", HBO Mundi
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/257
 #EXTINF:-1 tvg-logo="https://blog.redbubble.com/wp-content/uploads/2019/04/HellsKitchen_logo.png"group-title="Entertainment",Hell's Kitchen
