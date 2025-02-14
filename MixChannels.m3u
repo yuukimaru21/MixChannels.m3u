@@ -44,7 +44,7 @@ http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mediacorp-channel-5-2023-logo-C31904224B-seeklogo.com.png" group-title="For Kids", MeWatch 5
 http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 #EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/229x0-icon.png" group-title="(PH)Not For Sale", Hits
-http://185.224.217.95:3050/live/heathwoods/woodsheath/558765.ts?token=TBdbWBBdEl4VAFVRAQZTBlIHUgYGBVUCXgFcAFBRVAMOA1EIBQBUBlMVHEZAFkdWUV45ClEXWAdTCQ9XAxhBRkRQQWYKURJeFQAJVQpUFx8SRw8OUBdYA1EDD1IAAFAHAhkRSQpREl4VAghVAVIXHxJWHhdQRwxTCm5cBEBdAFYVD11MD1kcRlhZbwBWD1RdVBFcQQQXThAPQkhDDFoWX1sZEVsKQUIFQ1ISXhFQAwsIEUpBVloXXBJDQUMMFjFmFRkRXBtBVQpEXl8KEVgXR0MRSkFcRj1AA0JME1NVDlZFFwkbUxccRlpWSDtQDVtdVVASClpbERBcEwtDGhYOXFlcR1YRakANUxUKRgZaBAMFERs=
+http://extraott.com:80/live/6772191932/1654508883/191946.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png" group-title="(PH)Not For Sale", Hits Movies
 http://115.146.176.131:80/TimRizal/TimRizal/36.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tl/f/f1/Gma_network_logo.png" group-title="(PH)Not For Sale", GMA
