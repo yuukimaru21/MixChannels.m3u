@@ -222,7 +222,7 @@ https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLnQezIcNQ_fwVMm1wRccjOxvZKwxz6Rio5cG8wKqcaMBJzLuMwOM1Mio&s=10" group-title="Educational", History 365
 https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" group-title="Educational", HISTORY UHD
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/323572.m3u8
+http://extraott.com:80/live/6772191932/1654508883/191945.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/pluto-tv/images/9/90/PTVDramaLife.svg/revision/latest?cb=20220803190313"group-title="Movies & Shows",Drama Life
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f24662bebe0f0000767de32/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Entertainment_Tonight_2021.svg/240px-Entertainment_Tonight_2021.svg.png"group-title="Entertainment",ET Channel
@@ -258,7 +258,7 @@ https://readymedia.moderntv.cloud:8092/distribute/readymedia/ABS_stream_gy/5-20-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logonetflix.png" group-title="Movies & Shows", Netflix Horror
 http://newlife3.wanicelife.com:8880/live/00:1A:79:63:44:0C/evAGxUELsy/60374.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies & Shows", HBO
-http://41.205.93.154/HBO/index.m3u8
+http://extraott.com:80/live/6772191932/1654508883/191943.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png"group-title="Movies & Shows",HBO HD
 http://125.227.210.55:8153/VideoInput/play.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png"group-title="Movies & Shows",HBO 2
