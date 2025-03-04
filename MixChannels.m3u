@@ -1,10 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/KPChannel.png" group-title="(PH)Not For Sale", Kapamilya Channel
 http://115.146.176.131:80/TimRizal/TimRizal/16.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/The_Filipino_Channel_%28TFC%29_logo.png" group-title="(PH)Not For Sale", TFC
-https://tfcguam-abscbn-ono.amagi.tv/index_6.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Kapamilya_Online_Live_logo.png" group-title="(PH)Not For Sale", Kapamilya Live
-http://tv.novea-hosting.com:80/martin@md14owl.co.uk/xPTzXDwNky/16319
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png" group-title="(PH)Not For Sale", A2Z
 http://115.146.176.131:80/TimRizal/TimRizal/68.ts​
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/320px-TeleRadyo_Serbisyo_logo.svg.png" group-title="(PH)Not For Sale", Teleradyo
