@@ -61,7 +61,7 @@ https://g1z1.short.gy/TV5Backup
 https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OneNewsPH_logo.svg/1200px-OneNewsPH_logo.svg.png" group-title="(PH)Not For Sale", One News
 https://bit.ly/3V39Bce
-#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/rptv%20logo%20final-02.png" group-title="(PH)Not For Sale", RPTV
+#EXTINF:-1 tvg-logo="https://cms..tv/Upload/Images/rptv%20logo%20final-02.png" group-title="(PH)Not For Sale", RPTV
 http://115.146.176.131:80/TimRizal/TimRizal/33.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/OnePH_logo.svg/2560px-OnePH_logo.svg.png" group-title="(PH)Not For Sale", One PH
 http://115.146.176.131:80/TimRizal/TimRizal/81.ts
@@ -69,7 +69,7 @@ http://115.146.176.131:80/TimRizal/TimRizal/81.ts
 https://g1z1.short.gy/PH-OneSports+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/PBA_Rush_logo.png" group-title="(PH)Not For Sale", PBA RUSH
 http://115.146.176.131:80/TimRizal/TimRizal/69.ts
-#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images//UAAP%20Varsity%20Channels%20Official%20Logo.png" group-title="(PH)Not For Sale", UAAP Varsity Channel(Down)
+#EXTINF:-1 tvg-logo="https://cms..tv/Upload/Images//UAAP%20Varsity%20Channels%20Official%20Logo.png" group-title="(PH)Not For Sale", UAAP Varsity Channel(Down)
 
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/th/284492/svg/nba-tv-seeklogo.com.svg" group-title="Sports", NBA TV 1080p
 http://doubleclicktv.live:80/70376812/52663544/885
@@ -83,7 +83,7 @@ http://fl2.moveonjoy.com/SEC_NETWORK/index.m3u8
 http://fl2.moveonjoy.com/OXYGEN/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/sbrXfCJ.png"group-title="US New Links",FreeForm
 http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png"group-title="(PH)Not For Sale",Warner TV Cignal
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png"group-title="(PH)Not For Sale",Warner TV 
 http://115.146.176.131:80/TimRizal/TimRizal/86.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hallmark_logo.svg/1280px-Hallmark_logo.svg.png" group-title="Movies & Shows", Hallmark Channel
 http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
@@ -770,6 +770,16 @@ http://151.252.179.225:31803/1:0:1:412:519:2:E08B163:0:0:0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Cinema_One_logo.png" group-title="Cignal", CINEMA ONE
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=58d0e56991194043b8fb82feb4db7276:d68f41b59649676788889e19fb10d22c
+https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dxs/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="Cignal", Cinemo
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa8aebe35ccc4541b7ce6292efcb1bfb:aab1df109d22fc5d7e3ec121ddf24e5f
+https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/index.mpd
 
 #EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Pinoy_Box_Office#/media/File:Pinoy_Box_Office_logo.svg" group-title="Cignal", PBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
