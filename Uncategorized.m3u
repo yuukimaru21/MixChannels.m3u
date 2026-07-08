@@ -6,7 +6,19 @@ http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220925/ourmid/pngtree-18-icon-png-image_6212805.png" group-title="Uncategorized", Channel
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220925/ourmid/pngtree-18-icon-png-image_6212805.png" group-title="Uncategorized", Channel
-http://94.228.166.20:8000/play/a02r/index.m3u8
+http://31.43.191.142:8880/live/9961775815055/a1ac0f4bc28b/73586.m3u8
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220925/ourmid/pngtree-18-icon-png-image_6212805.png" group-title="Uncategorized", Channel
+http://31.43.191.142:8880/live/9961775815055/a1ac0f4bc28b/73584.m3u8
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220925/ourmid/pngtree-18-icon-png-image_6212805.png" group-title="Uncategorized", Channel
+http://31.43.191.142:8880/live/9961775815055/a1ac0f4bc28b/73599.m3u8
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220925/ourmid/pngtree-18-icon-png-image_6212805.png" group-title="Uncategorized", Channel
+http://31.43.191.142:8880/live/9961775815055/a1ac0f4bc28b/73595.m3u8
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220925/ourmid/pngtree-18-icon-png-image_6212805.png" group-title="Uncategorized", Channel
+http://31.43.191.142:8880/live/9961775815055/a1ac0f4bc28b/73588.m3u8
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220925/ourmid/pngtree-18-icon-png-image_6212805.png" group-title="Uncategorized", Channel
+http://31.43.191.142:8880/live/9961775815055/a1ac0f4bc28b/73596.m3u8
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220925/ourmid/pngtree-18-icon-png-image_6212805.png" group-title="Uncategorized", Channel
+http://31.43.191.142:8880/live/9961775815055/a1ac0f4bc28b/73593.m3u8
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220925/ourmid/pngtree-18-icon-png-image_6212805.png" group-title="Uncategorized", Channel
 http://ru.iptv.monster/play/13021/manifest.m3u8?token=75BA4FC1CA5013E
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220925/ourmid/pngtree-18-icon-png-image_6212805.png" group-title="Uncategorized", Channel
