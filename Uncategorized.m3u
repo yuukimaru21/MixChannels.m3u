@@ -145,3 +145,9 @@ http://u.vipl.one/high/ierw63qgf1/1704.m3u8
 http://u.vipl.one/high/ierw63qgf1/1705.m3u8
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220925/ourmid/pngtree-18-icon-png-image_6212805.png" group-title="Uncategorized", Channel 73
 http://u.vipl.one/high/ierw63qgf1/1684.m3u8
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220925/ourmid/pngtree-18-icon-png-image_6212805.png" group-title="Uncategorized", Channel 74
+http://edge14.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220925/ourmid/pngtree-18-icon-png-image_6212805.png" group-title="Uncategorized", Channel 75
+https://edge14.vedge.infomaniak.com/livecast/ik:carac5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-vector/20220925/ourmid/pngtree-18-icon-png-image_6212805.png" group-title="Uncategorized", Channel 76
+https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
